@@ -1,7 +1,9 @@
 # Curbside AI
 ### New York City's taxi and ride-hail trips, hour by hour: where they start, where they go, and what models can honestly forecast
 
-**Status:** complete and runs locally as a static site; not publicly hosted.
+**Live site:** [curbside-ai.vercel.app](https://curbside-ai.vercel.app)
+
+**Status:** complete. A static site built from local data; it can also be run locally (see Run it).
 
 ![City Pulse: hourly pickups per taxi zone](docs/img/city-pulse.png)
 

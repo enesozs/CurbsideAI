@@ -2,8 +2,8 @@
 // into the site, plus the fonts, map data and map style served with it. Runs before each build
 // (npm "prebuild"), so the notices always match what is shipped.
 import { execFileSync } from "node:child_process";
-import { existsSync, readdirSync, readFileSync, writeFileSync } from "node:fs";
-import { join } from "node:path";
+import { existsSync, mkdirSync, readdirSync, readFileSync, writeFileSync } from "node:fs";
+import { dirname, join } from "node:path";
 
 const root = new URL("..", import.meta.url).pathname;
 const out = join(root, "public", "THIRD_PARTY_NOTICES.txt");
@@ -62,5 +62,6 @@ const sections = [
 for (const { id, license, text } of [...seen.values()].sort((a, b) => a.id.localeCompare(b.id))) {
   sections.push("", "-".repeat(72), `${id} — ${license}`, "-".repeat(72), text ?? "(no licence file in package; licence field above)");
 }
+mkdirSync(dirname(out), { recursive: true }); // public/ is absent in a fresh clone (its contents are generated)
 writeFileSync(out, sections.join("\n") + "\n");
 console.log(`third-party notices: ${seen.size} packages -> public/THIRD_PARTY_NOTICES.txt`);

@@ -51,3 +51,15 @@ Only aggregates are published, never trip rows. `tests/unit/test_artifacts.py` c
 ## Verified
 
 - Playwright smoke tests on desktop (1440×900) and mobile (390×844) check: map renders, legend wording, keyboard stepping, measure and service toggles, table view, the Data Quality and Method pages, and dark theme. Screenshots were reviewed in both themes.
+
+## Deploying
+
+The site's data (`web/public/data/`, `web/public/basemap/`, about 165 MB) is generated from the local warehouse and is not in git, so the hosted site can't be built from the repository. Automatic Git deployments are switched off in the root `vercel.json`. The site is built locally and uploaded as prebuilt output:
+
+```bash
+cd web
+vercel build --prod
+vercel deploy --prebuilt --prod
+```
+
+The basemap is read with HTTP range requests, so after a deploy, check that a range request for `/basemap/nyc.pmtiles` returns `206`.

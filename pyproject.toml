@@ -1,0 +1,47 @@
+[project]
+name = "curbside"
+version = "0.1.0"
+description = "NYC trip-record mobility observatory: pipeline, forecasts, static web artifacts"
+authors = [
+    { name = "Enes Taha Ozsoy", email = "145999360+enesozs@users.noreply.github.com" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "duckdb>=2.0.0",
+    "geopandas>=1.2.0",
+    "holidays>=0.108",
+    "httpx>=0.28.1",
+    "pmtiles>=3.8.1",
+    "polars>=2.1.0",
+    "pyarrow>=26.0.1",
+    "pyogrio>=0.13.0",
+    "pyproj>=3.8.0",
+    "scikit-learn>=1.9.1",
+    "scipy>=1.18.1",
+    "shapely>=2.1",
+    "typer>=0.29.1",
+]
+
+[project.scripts]
+curbside = "curbside.cli:main"
+
+[build-system]
+requires = ["uv_build>=0.13.7,<0.14.0"]
+build-backend = "uv_build"
+
+[dependency-groups]
+dev = [
+    "pytest>=9.2.0",
+    "ruff>=0.17.5",
+]
+
+[tool.ruff]
+line-length = 110
+target-version = "py312"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+markers = ["network: needs internet access"]

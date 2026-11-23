@@ -1,0 +1,9 @@
+{
+  "zones": 263,
+  "area_km2_total": 792.91,
+  "tolerance_ft": 40.0,
+  "vertices_before": 98192,
+  "vertices_after": 24002,
+  "invalid_after_simplify": 0,
+  "geojson_bytes": 542442
+}

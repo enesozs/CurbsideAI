@@ -1,0 +1,20 @@
+{
+  "trip_source": "yellow",
+  "month": "2025-05",
+  "gold_rows": 195672,
+  "expected_rows": 195672,
+  "unique_keys": 195672,
+  "gold_trip_total": 4469864,
+  "silver_counted_in_zone_universe": 4469864,
+  "silver_counted_catchall_pickup": 9435,
+  "silver_counted_unknown_pickup": 0,
+  "silver_inputs": [
+    "month=2025-04",
+    "month=2025-05",
+    "month=2025-06"
+  ],
+  "totals_reconcile": true,
+  "keys_unique": true,
+  "od_rows": 384842,
+  "od_trip_total": 4463565
+}

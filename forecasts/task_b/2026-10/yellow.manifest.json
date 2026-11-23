@@ -1,0 +1,19 @@
+{
+  "task": "B_lag_aware",
+  "trip_source": "yellow",
+  "target_month": "2026-10",
+  "issued_at_utc": "2026-11-14T20:04:56Z",
+  "information_cutoff_utc": "2026-10-01T04:00:00Z",
+  "model_id": "profile_8w_seasonal",
+  "seasonal_ratio": 1.110000729560852,
+  "file": "yellow.parquet",
+  "sha256": "7cdd47e546a1298dd26df9feac963f0d775c8cc8abcf0d36c33d4d815fd3f0f5",
+  "rows": 195672,
+  "conformal_q": {
+    "high": 3.6821917929905776,
+    "low": 1.1738870960025027,
+    "mid": 1.7951939077034471,
+    "sparse": 0.5877437437840434
+  },
+  "git_sha": "9c0518e"
+}

@@ -1,0 +1,19 @@
+{
+  "task": "B_lag_aware",
+  "trip_source": "hvfhv",
+  "target_month": "2026-10",
+  "issued_at_utc": "2026-11-14T20:04:56Z",
+  "information_cutoff_utc": "2026-10-01T04:00:00Z",
+  "model_id": "profile_8w_seasonal",
+  "seasonal_ratio": 1.0981351137161255,
+  "file": "hvfhv.parquet",
+  "sha256": "b877a4bfed6d8eb8b88f6b4b93f292f0f2f8d71a5c79b2972ab743645b51cadc",
+  "rows": 195672,
+  "conformal_q": {
+    "high": 4.607661340558429,
+    "low": 2.268659128976097,
+    "mid": 3.0112483528173306,
+    "sparse": 0.11574139406931673
+  },
+  "git_sha": "9c0518e"
+}

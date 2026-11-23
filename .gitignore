@@ -1,0 +1,41 @@
+# Generated and local state
+.env
+.venv/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+node_modules/
+.next/
+data/raw/
+data/interim/
+data/processed/
+artifacts/
+mlruns/
+.DS_Store
+logs/
+data/silver/
+data/gold/
+data/forecasts/
+web/test-results/
+web/playwright-report/
+tools/
+web/public/basemap/
+web/public/data/
+web/dist/
+
+# Agent instructions and internal working notes (kept local)
+AGENTS.md
+CLAUDE.md
+CLAUDE.local.md
+.claude/
+BLUEPRINT.md
+START_HERE.md
+docs/ROADMAP.md
+docs/VISUAL_DESIGN.md
+docs/SOURCES.md
+docs/source_inventory.md
+docs/methodology_decisions.md
+docs/deploy_proposal.md
+web/public/THIRD_PARTY_NOTICES.txt
+# Raw trip-row samples from the source audit: local only (publish aggregates only)
+docs/samples/

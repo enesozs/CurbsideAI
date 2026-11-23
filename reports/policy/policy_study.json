@@ -1,0 +1,5394 @@
+{
+ "policy_start": "2025-01-05",
+ "crz": {
+  "rule": "intra-zone trips charged cbd_congestion_fee >= 60% (n >= 100), 2025-01-06+",
+  "zones": [
+   4,
+   12,
+   13,
+   45,
+   48,
+   50,
+   68,
+   79,
+   87,
+   88,
+   90,
+   100,
+   107,
+   113,
+   114,
+   125,
+   137,
+   144,
+   148,
+   158,
+   161,
+   162,
+   163,
+   164,
+   170,
+   186,
+   209,
+   211,
+   224,
+   229,
+   230,
+   231,
+   232,
+   233,
+   234,
+   246,
+   249,
+   261
+  ],
+  "evidence": {
+   "1": {
+    "n": 9717,
+    "fee_share": 0.0076
+   },
+   "2": {
+    "n": 36,
+    "fee_share": 0.0
+   },
+   "3": {
+    "n": 106180,
+    "fee_share": 0.0001
+   },
+   "4": {
+    "n": 16363,
+    "fee_share": 0.9447
+   },
+   "5": {
+    "n": 10766,
+    "fee_share": 0.0001
+   },
+   "6": {
+    "n": 21242,
+    "fee_share": 0.0002
+   },
+   "7": {
+    "n": 617155,
+    "fee_share": 0.0006
+   },
+   "8": {
+    "n": 144,
+    "fee_share": 0.0
+   },
+   "9": {
+    "n": 33969,
+    "fee_share": 0.0003
+   },
+   "10": {
+    "n": 116722,
+    "fee_share": 0.0004
+   },
+   "11": {
+    "n": 32479,
+    "fee_share": 0.0002
+   },
+   "12": {
+    "n": 684,
+    "fee_share": 0.7266
+   },
+   "13": {
+    "n": 36153,
+    "fee_share": 0.9264
+   },
+   "14": {
+    "n": 687198,
+    "fee_share": 0.0001
+   },
+   "15": {
+    "n": 23668,
+    "fee_share": 0.0002
+   },
+   "16": {
+    "n": 172088,
+    "fee_share": 0.0001
+   },
+   "17": {
+    "n": 315372,
+    "fee_share": 0.0011
+   },
+   "18": {
+    "n": 162577,
+    "fee_share": 0.0002
+   },
+   "19": {
+    "n": 32379,
+    "fee_share": 0.0002
+   },
+   "20": {
+    "n": 69276,
+    "fee_share": 0.0003
+   },
+   "21": {
+    "n": 120644,
+    "fee_share": 0.0002
+   },
+   "22": {
+    "n": 237740,
+    "fee_share": 0.0001
+   },
+   "23": {
+    "n": 140462,
+    "fee_share": 0.0001
+   },
+   "24": {
+    "n": 10698,
+    "fee_share": 0.0149
+   },
+   "25": {
+    "n": 79293,
+    "fee_share": 0.0043
+   },
+   "26": {
+    "n": 854258,
+    "fee_share": 0.0001
+   },
+   "27": {
+    "n": 3328,
+    "fee_share": 0.0003
+   },
+   "28": {
+    "n": 87298,
+    "fee_share": 0.0005
+   },
+   "29": {
+    "n": 92261,
+    "fee_share": 0.0002
+   },
+   "30": {
+    "n": 872,
+    "fee_share": 0.0
+   },
+   "31": {
+    "n": 2448,
+    "fee_share": 0.0012
+   },
+   "32": {
+    "n": 56769,
+    "fee_share": 0.0002
+   },
+   "33": {
+    "n": 88022,
+    "fee_share": 0.0065
+   },
+   "34": {
+    "n": 3356,
+    "fee_share": 0.0182
+   },
+   "35": {
+    "n": 376909,
+    "fee_share": 0.0002
+   },
+   "36": {
+    "n": 273673,
+    "fee_share": 0.0008
+   },
+   "37": {
+    "n": 485924,
+    "fee_share": 0.0005
+   },
+   "38": {
+    "n": 39687,
+    "fee_share": 0.0001
+   },
+   "39": {
+    "n": 985528,
+    "fee_share": 0.0001
+   },
+   "40": {
+    "n": 25935,
+    "fee_share": 0.0055
+   },
+   "41": {
+    "n": 209168,
+    "fee_share": 0.0026
+   },
+   "42": {
+    "n": 441303,
+    "fee_share": 0.001
+   },
+   "43": {
+    "n": 52953,
+    "fee_share": 0.354
+   },
+   "44": {
+    "n": 70162,
+    "fee_share": 0.0
+   },
+   "45": {
+    "n": 12719,
+    "fee_share": 0.9477
+   },
+   "46": {
+    "n": 2620,
+    "fee_share": 0.0008
+   },
+   "47": {
+    "n": 63318,
+    "fee_share": 0.0014
+   },
+   "48": {
+    "n": 189481,
+    "fee_share": 0.9631
+   },
+   "49": {
+    "n": 111667,
+    "fee_share": 0.002
+   },
+   "50": {
+    "n": 49235,
+    "fee_share": 0.9403
+   },
+   "51": {
+    "n": 217310,
+    "fee_share": 0.0001
+   },
+   "52": {
+    "n": 8244,
+    "fee_share": 0.0096
+   },
+   "53": {
+    "n": 66414,
+    "fee_share": 0.0004
+   },
+   "54": {
+    "n": 1466,
+    "fee_share": 0.0218
+   },
+   "55": {
+    "n": 312486,
+    "fee_share": 0.0001
+   },
+   "56": {
+    "n": 68544,
+    "fee_share": 0.0005
+   },
+   "57": {
+    "n": 657,
+    "fee_share": 0.0
+   },
+   "58": {
+    "n": 2690,
+    "fee_share": 0.0011
+   },
+   "59": {
+    "n": 335,
+    "fee_share": 0.0
+   },
+   "60": {
+    "n": 48419,
+    "fee_share": 0.0005
+   },
+   "61": {
+    "n": 728515,
+    "fee_share": 0.0004
+   },
+   "62": {
+    "n": 92143,
+    "fee_share": 0.0009
+   },
+   "63": {
+    "n": 151007,
+    "fee_share": 0.0001
+   },
+   "64": {
+    "n": 65025,
+    "fee_share": 0.0001
+   },
+   "65": {
+    "n": 39710,
+    "fee_share": 0.011
+   },
+   "66": {
+    "n": 16886,
+    "fee_share": 0.0282
+   },
+   "67": {
+    "n": 69433,
+    "fee_share": 0.0003
+   },
+   "68": {
+    "n": 214705,
+    "fee_share": 0.9697
+   },
+   "69": {
+    "n": 148932,
+    "fee_share": 0.0004
+   },
+   "70": {
+    "n": 56966,
+    "fee_share": 0.0027
+   },
+   "71": {
+    "n": 187563,
+    "fee_share": 0.0002
+   },
+   "72": {
+    "n": 208171,
+    "fee_share": 0.0002
+   },
+   "73": {
+    "n": 19708,
+    "fee_share": 0.0004
+   },
+   "74": {
+    "n": 249134,
+    "fee_share": 0.0016
+   },
+   "75": {
+    "n": 214152,
+    "fee_share": 0.0032
+   },
+   "76": {
+    "n": 1606545,
+    "fee_share": 0.0001
+   },
+   "77": {
+    "n": 82894,
+    "fee_share": 0.0006
+   },
+   "78": {
+    "n": 145745,
+    "fee_share": 0.0004
+   },
+   "79": {
+    "n": 238892,
+    "fee_share": 0.9723
+   },
+   "80": {
+    "n": 207517,
+    "fee_share": 0.0023
+   },
+   "81": {
+    "n": 123769,
+    "fee_share": 0.0001
+   },
+   "82": {
+    "n": 417268,
+    "fee_share": 0.0002
+   },
+   "83": {
+    "n": 59200,
+    "fee_share": 0.0011
+   },
+   "84": {
+    "n": 33459,
+    "fee_share": 0.0001
+   },
+   "85": {
+    "n": 87759,
+    "fee_share": 0.0007
+   },
+   "86": {
+    "n": 344306,
+    "fee_share": 0.0001
+   },
+   "87": {
+    "n": 39595,
+    "fee_share": 0.9471
+   },
+   "88": {
+    "n": 10960,
+    "fee_share": 0.8795
+   },
+   "89": {
+    "n": 434601,
+    "fee_share": 0.0004
+   },
+   "90": {
+    "n": 75362,
+    "fee_share": 0.9582
+   },
+   "91": {
+    "n": 254526,
+    "fee_share": 0.0002
+   },
+   "92": {
+    "n": 331399,
+    "fee_share": 0.0002
+   },
+   "93": {
+    "n": 8993,
+    "fee_share": 0.0033
+   },
+   "94": {
+    "n": 28962,
+    "fee_share": 0.0005
+   },
+   "95": {
+    "n": 630758,
+    "fee_share": 0.0002
+   },
+   "96": {
+    "n": 766,
+    "fee_share": 0.0
+   },
+   "97": {
+    "n": 147317,
+    "fee_share": 0.0026
+   },
+   "98": {
+    "n": 23769,
+    "fee_share": 0.0001
+   },
+   "99": {
+    "n": 128,
+    "fee_share": 0.0078
+   },
+   "100": {
+    "n": 43185,
+    "fee_share": 0.9145
+   },
+   "101": {
+    "n": 40323,
+    "fee_share": 0.0001
+   },
+   "102": {
+    "n": 100449,
+    "fee_share": 0.0002
+   },
+   "105": {
+    "n": 1,
+    "fee_share": 0.0
+   },
+   "106": {
+    "n": 21567,
+    "fee_share": 0.0062
+   },
+   "107": {
+    "n": 93253,
+    "fee_share": 0.9603
+   },
+   "108": {
+    "n": 38877,
+    "fee_share": 0.0003
+   },
+   "109": {
+    "n": 76871,
+    "fee_share": 0.0001
+   },
+   "110": {
+    "n": 35,
+    "fee_share": 0.0
+   },
+   "111": {
+    "n": 127,
+    "fee_share": 0.0079
+   },
+   "112": {
+    "n": 409875,
+    "fee_share": 0.0019
+   },
+   "113": {
+    "n": 60730,
+    "fee_share": 0.9616
+   },
+   "114": {
+    "n": 48085,
+    "fee_share": 0.9475
+   },
+   "115": {
+    "n": 33598,
+    "fee_share": 0.0011
+   },
+   "116": {
+    "n": 119404,
+    "fee_share": 0.0016
+   },
+   "117": {
+    "n": 211057,
+    "fee_share": 0.0
+   },
+   "118": {
+    "n": 69526,
+    "fee_share": 0.0001
+   },
+   "119": {
+    "n": 87926,
+    "fee_share": 0.0017
+   },
+   "120": {
+    "n": 236,
+    "fee_share": 0.0127
+   },
+   "121": {
+    "n": 65972,
+    "fee_share": 0.0004
+   },
+   "122": {
+    "n": 45343,
+    "fee_share": 0.0002
+   },
+   "123": {
+    "n": 193715,
+    "fee_share": 0.0
+   },
+   "124": {
+    "n": 114872,
+    "fee_share": 0.0001
+   },
+   "125": {
+    "n": 16846,
+    "fee_share": 0.9331
+   },
+   "126": {
+    "n": 108825,
+    "fee_share": 0.0003
+   },
+   "127": {
+    "n": 99728,
+    "fee_share": 0.0008
+   },
+   "128": {
+    "n": 582,
+    "fee_share": 0.0052
+   },
+   "129": {
+    "n": 630613,
+    "fee_share": 0.0002
+   },
+   "130": {
+    "n": 428759,
+    "fee_share": 0.0002
+   },
+   "131": {
+    "n": 66988,
+    "fee_share": 0.0002
+   },
+   "132": {
+    "n": 310418,
+    "fee_share": 0.0096
+   },
+   "133": {
+    "n": 44708,
+    "fee_share": 0.0025
+   },
+   "134": {
+    "n": 94152,
+    "fee_share": 0.0004
+   },
+   "135": {
+    "n": 51518,
+    "fee_share": 0.0004
+   },
+   "136": {
+    "n": 52039,
+    "fee_share": 0.0006
+   },
+   "137": {
+    "n": 43256,
+    "fee_share": 0.943
+   },
+   "138": {
+    "n": 64390,
+    "fee_share": 0.0237
+   },
+   "139": {
+    "n": 159831,
+    "fee_share": 0.0001
+   },
+   "140": {
+    "n": 116833,
+    "fee_share": 0.1383
+   },
+   "141": {
+    "n": 165266,
+    "fee_share": 0.1655
+   },
+   "142": {
+    "n": 167050,
+    "fee_share": 0.4502
+   },
+   "143": {
+    "n": 90619,
+    "fee_share": 0.2551
+   },
+   "144": {
+    "n": 49060,
+    "fee_share": 0.9533
+   },
+   "145": {
+    "n": 466285,
+    "fee_share": 0.0027
+   },
+   "146": {
+    "n": 33657,
+    "fee_share": 0.0097
+   },
+   "147": {
+    "n": 37863,
+    "fee_share": 0.0007
+   },
+   "148": {
+    "n": 105340,
+    "fee_share": 0.9626
+   },
+   "149": {
+    "n": 123993,
+    "fee_share": 0.0001
+   },
+   "150": {
+    "n": 33942,
+    "fee_share": 0.0001
+   },
+   "151": {
+    "n": 49622,
+    "fee_share": 0.0096
+   },
+   "152": {
+    "n": 28046,
+    "fee_share": 0.0045
+   },
+   "153": {
+    "n": 5767,
+    "fee_share": 0.0007
+   },
+   "154": {
+    "n": 626,
+    "fee_share": 0.0
+   },
+   "155": {
+    "n": 145212,
+    "fee_share": 0.0001
+   },
+   "156": {
+    "n": 165256,
+    "fee_share": 0.0001
+   },
+   "157": {
+    "n": 93858,
+    "fee_share": 0.0008
+   },
+   "158": {
+    "n": 55644,
+    "fee_share": 0.9536
+   },
+   "159": {
+    "n": 160230,
+    "fee_share": 0.0004
+   },
+   "160": {
+    "n": 108828,
+    "fee_share": 0.0005
+   },
+   "161": {
+    "n": 228102,
+    "fee_share": 0.9589
+   },
+   "162": {
+    "n": 126105,
+    "fee_share": 0.9551
+   },
+   "163": {
+    "n": 98495,
+    "fee_share": 0.9451
+   },
+   "164": {
+    "n": 100098,
+    "fee_share": 0.9532
+   },
+   "165": {
+    "n": 160680,
+    "fee_share": 0.0003
+   },
+   "166": {
+    "n": 148238,
+    "fee_share": 0.0027
+   },
+   "167": {
+    "n": 84369,
+    "fee_share": 0.0009
+   },
+   "168": {
+    "n": 291307,
+    "fee_share": 0.0006
+   },
+   "169": {
+    "n": 126952,
+    "fee_share": 0.0005
+   },
+   "170": {
+    "n": 146250,
+    "fee_share": 0.9606
+   },
+   "171": {
+    "n": 102434,
+    "fee_share": 0.0001
+   },
+   "172": {
+    "n": 51588,
+    "fee_share": 0.0001
+   },
+   "173": {
+    "n": 80861,
+    "fee_share": 0.0001
+   },
+   "174": {
+    "n": 168543,
+    "fee_share": 0.0002
+   },
+   "175": {
+    "n": 18765,
+    "fee_share": 0.0002
+   },
+   "176": {
+    "n": 16735,
+    "fee_share": 0.0002
+   },
+   "177": {
+    "n": 147368,
+    "fee_share": 0.0003
+   },
+   "178": {
+    "n": 23589,
+    "fee_share": 0.0003
+   },
+   "179": {
+    "n": 123795,
+    "fee_share": 0.0015
+   },
+   "180": {
+    "n": 60209,
+    "fee_share": 0.0003
+   },
+   "181": {
+    "n": 498658,
+    "fee_share": 0.0007
+   },
+   "182": {
+    "n": 65072,
+    "fee_share": 0.0006
+   },
+   "183": {
+    "n": 22870,
+    "fee_share": 0.0003
+   },
+   "184": {
+    "n": 5083,
+    "fee_share": 0.0002
+   },
+   "185": {
+    "n": 104524,
+    "fee_share": 0.0002
+   },
+   "186": {
+    "n": 58535,
+    "fee_share": 0.9078
+   },
+   "187": {
+    "n": 40317,
+    "fee_share": 0.0002
+   },
+   "188": {
+    "n": 361505,
+    "fee_share": 0.0004
+   },
+   "189": {
+    "n": 36380,
+    "fee_share": 0.0025
+   },
+   "190": {
+    "n": 2827,
+    "fee_share": 0.0014
+   },
+   "191": {
+    "n": 247969,
+    "fee_share": 0.0002
+   },
+   "192": {
+    "n": 16958,
+    "fee_share": 0.0009
+   },
+   "193": {
+    "n": 69259,
+    "fee_share": 0.0041
+   },
+   "194": {
+    "n": 1061,
+    "fee_share": 0.0113
+   },
+   "195": {
+    "n": 32979,
+    "fee_share": 0.0042
+   },
+   "196": {
+    "n": 64658,
+    "fee_share": 0.0006
+   },
+   "197": {
+    "n": 264556,
+    "fee_share": 0.0002
+   },
+   "198": {
+    "n": 317666,
+    "fee_share": 0.0003
+   },
+   "199": {
+    "n": 2,
+    "fee_share": 0.0
+   },
+   "200": {
+    "n": 135082,
+    "fee_share": 0.0004
+   },
+   "201": {
+    "n": 87253,
+    "fee_share": 0.0001
+   },
+   "202": {
+    "n": 8131,
+    "fee_share": 0.0137
+   },
+   "203": {
+    "n": 202909,
+    "fee_share": 0.0
+   },
+   "204": {
+    "n": 16145,
+    "fee_share": 0.0
+   },
+   "205": {
+    "n": 323770,
+    "fee_share": 0.0001
+   },
+   "206": {
+    "n": 306490,
+    "fee_share": 0.0
+   },
+   "207": {
+    "n": 4456,
+    "fee_share": 0.0002
+   },
+   "208": {
+    "n": 240189,
+    "fee_share": 0.0001
+   },
+   "209": {
+    "n": 8653,
+    "fee_share": 0.9112
+   },
+   "210": {
+    "n": 261783,
+    "fee_share": 0.0001
+   },
+   "211": {
+    "n": 38916,
+    "fee_share": 0.9588
+   },
+   "212": {
+    "n": 60323,
+    "fee_share": 0.0004
+   },
+   "213": {
+    "n": 280270,
+    "fee_share": 0.0001
+   },
+   "214": {
+    "n": 59106,
+    "fee_share": 0.0002
+   },
+   "215": {
+    "n": 107357,
+    "fee_share": 0.0002
+   },
+   "216": {
+    "n": 623184,
+    "fee_share": 0.0001
+   },
+   "217": {
+    "n": 163340,
+    "fee_share": 0.0005
+   },
+   "218": {
+    "n": 83938,
+    "fee_share": 0.0003
+   },
+   "219": {
+    "n": 59668,
+    "fee_share": 0.0003
+   },
+   "220": {
+    "n": 213349,
+    "fee_share": 0.0003
+   },
+   "221": {
+    "n": 106969,
+    "fee_share": 0.0002
+   },
+   "222": {
+    "n": 23169,
+    "fee_share": 0.0007
+   },
+   "223": {
+    "n": 413707,
+    "fee_share": 0.0003
+   },
+   "224": {
+    "n": 6327,
+    "fee_share": 0.9354
+   },
+   "225": {
+    "n": 287272,
+    "fee_share": 0.0007
+   },
+   "226": {
+    "n": 308853,
+    "fee_share": 0.0012
+   },
+   "227": {
+    "n": 116293,
+    "fee_share": 0.0005
+   },
+   "228": {
+    "n": 305891,
+    "fee_share": 0.0003
+   },
+   "229": {
+    "n": 75088,
+    "fee_share": 0.9548
+   },
+   "230": {
+    "n": 192171,
+    "fee_share": 0.9467
+   },
+   "231": {
+    "n": 242392,
+    "fee_share": 0.9767
+   },
+   "232": {
+    "n": 50392,
+    "fee_share": 0.9625
+   },
+   "233": {
+    "n": 49573,
+    "fee_share": 0.9494
+   },
+   "234": {
+    "n": 131674,
+    "fee_share": 0.966
+   },
+   "235": {
+    "n": 142575,
+    "fee_share": 0.0003
+   },
+   "236": {
+    "n": 467014,
+    "fee_share": 0.0073
+   },
+   "237": {
+    "n": 542935,
+    "fee_share": 0.2714
+   },
+   "238": {
+    "n": 148740,
+    "fee_share": 0.0085
+   },
+   "239": {
+    "n": 204975,
+    "fee_share": 0.0102
+   },
+   "240": {
+    "n": 7029,
+    "fee_share": 0.0001
+   },
+   "241": {
+    "n": 127564,
+    "fee_share": 0.0006
+   },
+   "242": {
+    "n": 154727,
+    "fee_share": 0.0001
+   },
+   "243": {
+    "n": 253188,
+    "fee_share": 0.0009
+   },
+   "244": {
+    "n": 312179,
+    "fee_share": 0.0009
+   },
+   "245": {
+    "n": 43390,
+    "fee_share": 0.0002
+   },
+   "246": {
+    "n": 194375,
+    "fee_share": 0.9532
+   },
+   "247": {
+    "n": 137626,
+    "fee_share": 0.0007
+   },
+   "248": {
+    "n": 49961,
+    "fee_share": 0.0003
+   },
+   "249": {
+    "n": 124106,
+    "fee_share": 0.9656
+   },
+   "250": {
+    "n": 73876,
+    "fee_share": 0.0003
+   },
+   "251": {
+    "n": 38058,
+    "fee_share": 0.0001
+   },
+   "252": {
+    "n": 68975,
+    "fee_share": 0.0001
+   },
+   "253": {
+    "n": 135,
+    "fee_share": 0.0
+   },
+   "254": {
+    "n": 312095,
+    "fee_share": 0.0001
+   },
+   "255": {
+    "n": 200449,
+    "fee_share": 0.0031
+   },
+   "256": {
+    "n": 179249,
+    "fee_share": 0.0051
+   },
+   "257": {
+    "n": 26102,
+    "fee_share": 0.0018
+   },
+   "258": {
+    "n": 171103,
+    "fee_share": 0.0001
+   },
+   "259": {
+    "n": 210317,
+    "fee_share": 0.0001
+   },
+   "260": {
+    "n": 170165,
+    "fee_share": 0.0005
+   },
+   "261": {
+    "n": 21483,
+    "fee_share": 0.8898
+   },
+   "262": {
+    "n": 52558,
+    "fee_share": 0.0194
+   },
+   "263": {
+    "n": 115134,
+    "fee_share": 0.012
+   },
+   "264": {
+    "n": 52648,
+    "fee_share": 0.4885
+   },
+   "265": {
+    "n": 37377,
+    "fee_share": 0.0118
+   }
+  }
+ },
+ "sources": {
+  "yellow": {
+   "pace_by_month": [
+    {
+     "group": "adjacent",
+     "month": "2023-01",
+     "min_per_mile": 5.914,
+     "trips": 1268340
+    },
+    {
+     "group": "adjacent",
+     "month": "2023-02",
+     "min_per_mile": 5.97,
+     "trips": 1174777
+    },
+    {
+     "group": "adjacent",
+     "month": "2023-03",
+     "min_per_mile": 6.076,
+     "trips": 1342916
+    },
+    {
+     "group": "adjacent",
+     "month": "2023-04",
+     "min_per_mile": 6.092,
+     "trips": 1310396
+    },
+    {
+     "group": "adjacent",
+     "month": "2023-05",
+     "min_per_mile": 6.494,
+     "trips": 1418695
+    },
+    {
+     "group": "adjacent",
+     "month": "2023-06",
+     "min_per_mile": 6.292,
+     "trips": 1290616
+    },
+    {
+     "group": "adjacent",
+     "month": "2023-07",
+     "min_per_mile": 5.878,
+     "trips": 1058055
+    },
+    {
+     "group": "adjacent",
+     "month": "2023-08",
+     "min_per_mile": 5.899,
+     "trips": 1021657
+    },
+    {
+     "group": "adjacent",
+     "month": "2023-09",
+     "min_per_mile": 6.743,
+     "trips": 1050423
+    },
+    {
+     "group": "adjacent",
+     "month": "2023-10",
+     "min_per_mile": 6.708,
+     "trips": 1353505
+    },
+    {
+     "group": "adjacent",
+     "month": "2023-11",
+     "min_per_mile": 6.869,
+     "trips": 1306452
+    },
+    {
+     "group": "adjacent",
+     "month": "2023-12",
+     "min_per_mile": 6.855,
+     "trips": 1329829
+    },
+    {
+     "group": "adjacent",
+     "month": "2024-01",
+     "min_per_mile": 6.245,
+     "trips": 1213997
+    },
+    {
+     "group": "adjacent",
+     "month": "2024-02",
+     "min_per_mile": 6.261,
+     "trips": 1200442
+    },
+    {
+     "group": "adjacent",
+     "month": "2024-03",
+     "min_per_mile": 6.164,
+     "trips": 1384936
+    },
+    {
+     "group": "adjacent",
+     "month": "2024-04",
+     "min_per_mile": 6.326,
+     "trips": 1421169
+    },
+    {
+     "group": "adjacent",
+     "month": "2024-05",
+     "min_per_mile": 6.678,
+     "trips": 1500626
+    },
+    {
+     "group": "adjacent",
+     "month": "2024-06",
+     "min_per_mile": 6.358,
+     "trips": 1354389
+    },
+    {
+     "group": "adjacent",
+     "month": "2024-07",
+     "min_per_mile": 6.195,
+     "trips": 1113005
+    },
+    {
+     "group": "adjacent",
+     "month": "2024-08",
+     "min_per_mile": 6.147,
+     "trips": 1046035
+    },
+    {
+     "group": "adjacent",
+     "month": "2024-09",
+     "min_per_mile": 6.756,
+     "trips": 1359430
+    },
+    {
+     "group": "adjacent",
+     "month": "2024-10",
+     "min_per_mile": 6.914,
+     "trips": 1493231
+    },
+    {
+     "group": "adjacent",
+     "month": "2024-11",
+     "min_per_mile": 6.875,
+     "trips": 1441629
+    },
+    {
+     "group": "adjacent",
+     "month": "2024-12",
+     "min_per_mile": 7.172,
+     "trips": 1406706
+    },
+    {
+     "group": "adjacent",
+     "month": "2025-01",
+     "min_per_mile": 6.22,
+     "trips": 1350988
+    },
+    {
+     "group": "adjacent",
+     "month": "2025-02",
+     "min_per_mile": 6.203,
+     "trips": 1353136
+    },
+    {
+     "group": "adjacent",
+     "month": "2025-03",
+     "min_per_mile": 6.051,
+     "trips": 1498562
+    },
+    {
+     "group": "adjacent",
+     "month": "2025-04",
+     "min_per_mile": 6.365,
+     "trips": 1494491
+    },
+    {
+     "group": "adjacent",
+     "month": "2025-05",
+     "min_per_mile": 6.544,
+     "trips": 1669536
+    },
+    {
+     "group": "adjacent",
+     "month": "2025-06",
+     "min_per_mile": 6.144,
+     "trips": 1508819
+    },
+    {
+     "group": "adjacent",
+     "month": "2025-07",
+     "min_per_mile": 6.067,
+     "trips": 1299665
+    },
+    {
+     "group": "adjacent",
+     "month": "2025-08",
+     "min_per_mile": 5.816,
+     "trips": 1154824
+    },
+    {
+     "group": "adjacent",
+     "month": "2025-09",
+     "min_per_mile": 6.585,
+     "trips": 1496622
+    },
+    {
+     "group": "adjacent",
+     "month": "2025-10",
+     "min_per_mile": 6.819,
+     "trips": 1614370
+    },
+    {
+     "group": "adjacent",
+     "month": "2025-11",
+     "min_per_mile": 6.759,
+     "trips": 1538091
+    },
+    {
+     "group": "adjacent",
+     "month": "2025-12",
+     "min_per_mile": 6.849,
+     "trips": 1580139
+    },
+    {
+     "group": "adjacent",
+     "month": "2026-01",
+     "min_per_mile": 6.34,
+     "trips": 1382894
+    },
+    {
+     "group": "adjacent",
+     "month": "2026-02",
+     "min_per_mile": 6.649,
+     "trips": 1250967
+    },
+    {
+     "group": "adjacent",
+     "month": "2026-03",
+     "min_per_mile": 6.271,
+     "trips": 1466979
+    },
+    {
+     "group": "adjacent",
+     "month": "2026-04",
+     "min_per_mile": 6.611,
+     "trips": 1474445
+    },
+    {
+     "group": "adjacent",
+     "month": "2026-05",
+     "min_per_mile": 6.759,
+     "trips": 1588171
+    },
+    {
+     "group": "adjacent",
+     "month": "2026-06",
+     "min_per_mile": 6.559,
+     "trips": 1482155
+    },
+    {
+     "group": "adjacent",
+     "month": "2026-07",
+     "min_per_mile": 6.184,
+     "trips": 1269663
+    },
+    {
+     "group": "adjacent",
+     "month": "2026-08",
+     "min_per_mile": 5.959,
+     "trips": 1190909
+    },
+    {
+     "group": "adjacent",
+     "month": "2026-09",
+     "min_per_mile": 6.636,
+     "trips": 1437561
+    },
+    {
+     "group": "control",
+     "month": "2023-01",
+     "min_per_mile": 2.651,
+     "trips": 95921
+    },
+    {
+     "group": "control",
+     "month": "2023-02",
+     "min_per_mile": 2.777,
+     "trips": 78967
+    },
+    {
+     "group": "control",
+     "month": "2023-03",
+     "min_per_mile": 2.939,
+     "trips": 99506
+    },
+    {
+     "group": "control",
+     "month": "2023-04",
+     "min_per_mile": 2.949,
+     "trips": 101078
+    },
+    {
+     "group": "control",
+     "month": "2023-05",
+     "min_per_mile": 3.112,
+     "trips": 110446
+    },
+    {
+     "group": "control",
+     "month": "2023-06",
+     "min_per_mile": 3.07,
+     "trips": 109618
+    },
+    {
+     "group": "control",
+     "month": "2023-07",
+     "min_per_mile": 2.89,
+     "trips": 106937
+    },
+    {
+     "group": "control",
+     "month": "2023-08",
+     "min_per_mile": 2.933,
+     "trips": 110201
+    },
+    {
+     "group": "control",
+     "month": "2023-09",
+     "min_per_mile": 3.055,
+     "trips": 95467
+    },
+    {
+     "group": "control",
+     "month": "2023-10",
+     "min_per_mile": 3.072,
+     "trips": 103202
+    },
+    {
+     "group": "control",
+     "month": "2023-11",
+     "min_per_mile": 3.011,
+     "trips": 92589
+    },
+    {
+     "group": "control",
+     "month": "2023-12",
+     "min_per_mile": 3.052,
+     "trips": 88245
+    },
+    {
+     "group": "control",
+     "month": "2024-01",
+     "min_per_mile": 2.79,
+     "trips": 85720
+    },
+    {
+     "group": "control",
+     "month": "2024-02",
+     "min_per_mile": 2.972,
+     "trips": 76052
+    },
+    {
+     "group": "control",
+     "month": "2024-03",
+     "min_per_mile": 3.36,
+     "trips": 95323
+    },
+    {
+     "group": "control",
+     "month": "2024-04",
+     "min_per_mile": 3.297,
+     "trips": 99041
+    },
+    {
+     "group": "control",
+     "month": "2024-05",
+     "min_per_mile": 3.628,
+     "trips": 112794
+    },
+    {
+     "group": "control",
+     "month": "2024-06",
+     "min_per_mile": 3.688,
+     "trips": 111352
+    },
+    {
+     "group": "control",
+     "month": "2024-07",
+     "min_per_mile": 3.321,
+     "trips": 115140
+    },
+    {
+     "group": "control",
+     "month": "2024-08",
+     "min_per_mile": 3.363,
+     "trips": 120503
+    },
+    {
+     "group": "control",
+     "month": "2024-09",
+     "min_per_mile": 3.72,
+     "trips": 124914
+    },
+    {
+     "group": "control",
+     "month": "2024-10",
+     "min_per_mile": 3.529,
+     "trips": 117701
+    },
+    {
+     "group": "control",
+     "month": "2024-11",
+     "min_per_mile": 3.726,
+     "trips": 108741
+    },
+    {
+     "group": "control",
+     "month": "2024-12",
+     "min_per_mile": 3.701,
+     "trips": 109377
+    },
+    {
+     "group": "control",
+     "month": "2025-01",
+     "min_per_mile": 3.638,
+     "trips": 107274
+    },
+    {
+     "group": "control",
+     "month": "2025-02",
+     "min_per_mile": 4.182,
+     "trips": 131704
+    },
+    {
+     "group": "control",
+     "month": "2025-03",
+     "min_per_mile": 4.401,
+     "trips": 197104
+    },
+    {
+     "group": "control",
+     "month": "2025-04",
+     "min_per_mile": 4.311,
+     "trips": 171516
+    },
+    {
+     "group": "control",
+     "month": "2025-05",
+     "min_per_mile": 4.477,
+     "trips": 233991
+    },
+    {
+     "group": "control",
+     "month": "2025-06",
+     "min_per_mile": 4.523,
+     "trips": 244250
+    },
+    {
+     "group": "control",
+     "month": "2025-07",
+     "min_per_mile": 4.318,
+     "trips": 233524
+    },
+    {
+     "group": "control",
+     "month": "2025-08",
+     "min_per_mile": 4.246,
+     "trips": 226368
+    },
+    {
+     "group": "control",
+     "month": "2025-09",
+     "min_per_mile": 4.401,
+     "trips": 199361
+    },
+    {
+     "group": "control",
+     "month": "2025-10",
+     "min_per_mile": 4.225,
+     "trips": 173844
+    },
+    {
+     "group": "control",
+     "month": "2025-11",
+     "min_per_mile": 4.216,
+     "trips": 167778
+    },
+    {
+     "group": "control",
+     "month": "2025-12",
+     "min_per_mile": 4.406,
+     "trips": 185901
+    },
+    {
+     "group": "control",
+     "month": "2026-01",
+     "min_per_mile": 4.508,
+     "trips": 179549
+    },
+    {
+     "group": "control",
+     "month": "2026-02",
+     "min_per_mile": 4.835,
+     "trips": 163293
+    },
+    {
+     "group": "control",
+     "month": "2026-03",
+     "min_per_mile": 4.554,
+     "trips": 186589
+    },
+    {
+     "group": "control",
+     "month": "2026-04",
+     "min_per_mile": 4.44,
+     "trips": 164215
+    },
+    {
+     "group": "control",
+     "month": "2026-05",
+     "min_per_mile": 4.733,
+     "trips": 178089
+    },
+    {
+     "group": "control",
+     "month": "2026-06",
+     "min_per_mile": 3.973,
+     "trips": 140191
+    },
+    {
+     "group": "control",
+     "month": "2026-07",
+     "min_per_mile": 3.639,
+     "trips": 135609
+    },
+    {
+     "group": "control",
+     "month": "2026-08",
+     "min_per_mile": 3.582,
+     "trips": 135663
+    },
+    {
+     "group": "control",
+     "month": "2026-09",
+     "min_per_mile": 3.806,
+     "trips": 135311
+    },
+    {
+     "group": "treated",
+     "month": "2023-01",
+     "min_per_mile": 6.775,
+     "trips": 1132143
+    },
+    {
+     "group": "treated",
+     "month": "2023-02",
+     "min_per_mile": 7.056,
+     "trips": 1117941
+    },
+    {
+     "group": "treated",
+     "month": "2023-03",
+     "min_per_mile": 7.254,
+     "trips": 1302278
+    },
+    {
+     "group": "treated",
+     "month": "2023-04",
+     "min_per_mile": 7.127,
+     "trips": 1236092
+    },
+    {
+     "group": "treated",
+     "month": "2023-05",
+     "min_per_mile": 7.353,
+     "trips": 1286946
+    },
+    {
+     "group": "treated",
+     "month": "2023-06",
+     "min_per_mile": 7.413,
+     "trips": 1240206
+    },
+    {
+     "group": "treated",
+     "month": "2023-07",
+     "min_per_mile": 7.299,
+     "trips": 1146277
+    },
+    {
+     "group": "treated",
+     "month": "2023-08",
+     "min_per_mile": 7.211,
+     "trips": 1103675
+    },
+    {
+     "group": "treated",
+     "month": "2023-09",
+     "min_per_mile": 7.977,
+     "trips": 1062387
+    },
+    {
+     "group": "treated",
+     "month": "2023-10",
+     "min_per_mile": 8.069,
+     "trips": 1297340
+    },
+    {
+     "group": "treated",
+     "month": "2023-11",
+     "min_per_mile": 8.127,
+     "trips": 1228276
+    },
+    {
+     "group": "treated",
+     "month": "2023-12",
+     "min_per_mile": 8.409,
+     "trips": 1275034
+    },
+    {
+     "group": "treated",
+     "month": "2024-01",
+     "min_per_mile": 7.228,
+     "trips": 1094911
+    },
+    {
+     "group": "treated",
+     "month": "2024-02",
+     "min_per_mile": 7.473,
+     "trips": 1157422
+    },
+    {
+     "group": "treated",
+     "month": "2024-03",
+     "min_per_mile": 7.519,
+     "trips": 1393269
+    },
+    {
+     "group": "treated",
+     "month": "2024-04",
+     "min_per_mile": 7.608,
+     "trips": 1334388
+    },
+    {
+     "group": "treated",
+     "month": "2024-05",
+     "min_per_mile": 7.858,
+     "trips": 1389389
+    },
+    {
+     "group": "treated",
+     "month": "2024-06",
+     "min_per_mile": 7.695,
+     "trips": 1377365
+    },
+    {
+     "group": "treated",
+     "month": "2024-07",
+     "min_per_mile": 7.637,
+     "trips": 1218975
+    },
+    {
+     "group": "treated",
+     "month": "2024-08",
+     "min_per_mile": 7.56,
+     "trips": 1171748
+    },
+    {
+     "group": "treated",
+     "month": "2024-09",
+     "min_per_mile": 7.999,
+     "trips": 1384955
+    },
+    {
+     "group": "treated",
+     "month": "2024-10",
+     "min_per_mile": 8.261,
+     "trips": 1423568
+    },
+    {
+     "group": "treated",
+     "month": "2024-11",
+     "min_per_mile": 8.223,
+     "trips": 1357741
+    },
+    {
+     "group": "treated",
+     "month": "2024-12",
+     "min_per_mile": 8.927,
+     "trips": 1362481
+    },
+    {
+     "group": "treated",
+     "month": "2025-01",
+     "min_per_mile": 7.132,
+     "trips": 1323175
+    },
+    {
+     "group": "treated",
+     "month": "2025-02",
+     "min_per_mile": 7.308,
+     "trips": 1391108
+    },
+    {
+     "group": "treated",
+     "month": "2025-03",
+     "min_per_mile": 7.263,
+     "trips": 1585337
+    },
+    {
+     "group": "treated",
+     "month": "2025-04",
+     "min_per_mile": 7.561,
+     "trips": 1452961
+    },
+    {
+     "group": "treated",
+     "month": "2025-05",
+     "min_per_mile": 7.693,
+     "trips": 1592355
+    },
+    {
+     "group": "treated",
+     "month": "2025-06",
+     "min_per_mile": 7.454,
+     "trips": 1530411
+    },
+    {
+     "group": "treated",
+     "month": "2025-07",
+     "min_per_mile": 7.558,
+     "trips": 1417814
+    },
+    {
+     "group": "treated",
+     "month": "2025-08",
+     "min_per_mile": 7.269,
+     "trips": 1281232
+    },
+    {
+     "group": "treated",
+     "month": "2025-09",
+     "min_per_mile": 7.955,
+     "trips": 1518373
+    },
+    {
+     "group": "treated",
+     "month": "2025-10",
+     "min_per_mile": 8.171,
+     "trips": 1536599
+    },
+    {
+     "group": "treated",
+     "month": "2025-11",
+     "min_per_mile": 8.261,
+     "trips": 1432223
+    },
+    {
+     "group": "treated",
+     "month": "2025-12",
+     "min_per_mile": 8.694,
+     "trips": 1469064
+    },
+    {
+     "group": "treated",
+     "month": "2026-01",
+     "min_per_mile": 7.512,
+     "trips": 1264458
+    },
+    {
+     "group": "treated",
+     "month": "2026-02",
+     "min_per_mile": 8.043,
+     "trips": 1173625
+    },
+    {
+     "group": "treated",
+     "month": "2026-03",
+     "min_per_mile": 7.614,
+     "trips": 1380764
+    },
+    {
+     "group": "treated",
+     "month": "2026-04",
+     "min_per_mile": 8.101,
+     "trips": 1327592
+    },
+    {
+     "group": "treated",
+     "month": "2026-05",
+     "min_per_mile": 8.207,
+     "trips": 1383239
+    },
+    {
+     "group": "treated",
+     "month": "2026-06",
+     "min_per_mile": 8.202,
+     "trips": 1358674
+    },
+    {
+     "group": "treated",
+     "month": "2026-07",
+     "min_per_mile": 8.041,
+     "trips": 1291958
+    },
+    {
+     "group": "treated",
+     "month": "2026-08",
+     "min_per_mile": 7.791,
+     "trips": 1191595
+    },
+    {
+     "group": "treated",
+     "month": "2026-09",
+     "min_per_mile": 8.3,
+     "trips": 1331074
+    }
+   ],
+   "entry_flows": [
+    {
+     "month": "2023-01",
+     "relation": "entering",
+     "trips_per_day": 13921.6
+    },
+    {
+     "month": "2023-01",
+     "relation": "inside",
+     "trips_per_day": 38582.1
+    },
+    {
+     "month": "2023-01",
+     "relation": "leaving",
+     "trips_per_day": 17171.5
+    },
+    {
+     "month": "2023-01",
+     "relation": "outside",
+     "trips_per_day": 26885.9
+    },
+    {
+     "month": "2023-02",
+     "relation": "entering",
+     "trips_per_day": 14395.5
+    },
+    {
+     "month": "2023-02",
+     "relation": "inside",
+     "trips_per_day": 42203.0
+    },
+    {
+     "month": "2023-02",
+     "relation": "leaving",
+     "trips_per_day": 18184.9
+    },
+    {
+     "month": "2023-02",
+     "relation": "outside",
+     "trips_per_day": 26822.9
+    },
+    {
+     "month": "2023-03",
+     "relation": "entering",
+     "trips_per_day": 15688.4
+    },
+    {
+     "month": "2023-03",
+     "relation": "inside",
+     "trips_per_day": 44498.4
+    },
+    {
+     "month": "2023-03",
+     "relation": "leaving",
+     "trips_per_day": 19152.3
+    },
+    {
+     "month": "2023-03",
+     "relation": "outside",
+     "trips_per_day": 28139.7
+    },
+    {
+     "month": "2023-04",
+     "relation": "entering",
+     "trips_per_day": 16060.0
+    },
+    {
+     "month": "2023-04",
+     "relation": "inside",
+     "trips_per_day": 43502.0
+    },
+    {
+     "month": "2023-04",
+     "relation": "leaving",
+     "trips_per_day": 19110.1
+    },
+    {
+     "month": "2023-04",
+     "relation": "outside",
+     "trips_per_day": 28524.6
+    },
+    {
+     "month": "2023-05",
+     "relation": "entering",
+     "trips_per_day": 16924.5
+    },
+    {
+     "month": "2023-05",
+     "relation": "inside",
+     "trips_per_day": 43886.0
+    },
+    {
+     "month": "2023-05",
+     "relation": "leaving",
+     "trips_per_day": 20136.0
+    },
+    {
+     "month": "2023-05",
+     "relation": "outside",
+     "trips_per_day": 29898.8
+    },
+    {
+     "month": "2023-06",
+     "relation": "entering",
+     "trips_per_day": 16194.5
+    },
+    {
+     "month": "2023-06",
+     "relation": "inside",
+     "trips_per_day": 43888.5
+    },
+    {
+     "month": "2023-06",
+     "relation": "leaving",
+     "trips_per_day": 19510.2
+    },
+    {
+     "month": "2023-06",
+     "relation": "outside",
+     "trips_per_day": 28188.4
+    },
+    {
+     "month": "2023-07",
+     "relation": "entering",
+     "trips_per_day": 13553.6
+    },
+    {
+     "month": "2023-07",
+     "relation": "inside",
+     "trips_per_day": 39413.6
+    },
+    {
+     "month": "2023-07",
+     "relation": "leaving",
+     "trips_per_day": 16062.8
+    },
+    {
+     "month": "2023-07",
+     "relation": "outside",
+     "trips_per_day": 22532.3
+    },
+    {
+     "month": "2023-08",
+     "relation": "entering",
+     "trips_per_day": 13087.9
+    },
+    {
+     "month": "2023-08",
+     "relation": "inside",
+     "trips_per_day": 38004.8
+    },
+    {
+     "month": "2023-08",
+     "relation": "leaving",
+     "trips_per_day": 15696.6
+    },
+    {
+     "month": "2023-08",
+     "relation": "outside",
+     "trips_per_day": 22171.5
+    },
+    {
+     "month": "2023-09",
+     "relation": "entering",
+     "trips_per_day": 13607.1
+    },
+    {
+     "month": "2023-09",
+     "relation": "inside",
+     "trips_per_day": 38751.3
+    },
+    {
+     "month": "2023-09",
+     "relation": "leaving",
+     "trips_per_day": 15776.8
+    },
+    {
+     "month": "2023-09",
+     "relation": "outside",
+     "trips_per_day": 24559.6
+    },
+    {
+     "month": "2023-10",
+     "relation": "entering",
+     "trips_per_day": 16565.4
+    },
+    {
+     "month": "2023-10",
+     "relation": "inside",
+     "trips_per_day": 45652.7
+    },
+    {
+     "month": "2023-10",
+     "relation": "leaving",
+     "trips_per_day": 19770.3
+    },
+    {
+     "month": "2023-10",
+     "relation": "outside",
+     "trips_per_day": 29082.7
+    },
+    {
+     "month": "2023-11",
+     "relation": "entering",
+     "trips_per_day": 16169.8
+    },
+    {
+     "month": "2023-11",
+     "relation": "inside",
+     "trips_per_day": 44662.2
+    },
+    {
+     "month": "2023-11",
+     "relation": "leaving",
+     "trips_per_day": 19265.6
+    },
+    {
+     "month": "2023-11",
+     "relation": "outside",
+     "trips_per_day": 28745.5
+    },
+    {
+     "month": "2023-12",
+     "relation": "entering",
+     "trips_per_day": 15236.3
+    },
+    {
+     "month": "2023-12",
+     "relation": "inside",
+     "trips_per_day": 44536.5
+    },
+    {
+     "month": "2023-12",
+     "relation": "leaving",
+     "trips_per_day": 18305.4
+    },
+    {
+     "month": "2023-12",
+     "relation": "outside",
+     "trips_per_day": 28727.8
+    },
+    {
+     "month": "2024-01",
+     "relation": "entering",
+     "trips_per_day": 13417.9
+    },
+    {
+     "month": "2024-01",
+     "relation": "inside",
+     "trips_per_day": 38020.1
+    },
+    {
+     "month": "2024-01",
+     "relation": "leaving",
+     "trips_per_day": 15933.2
+    },
+    {
+     "month": "2024-01",
+     "relation": "outside",
+     "trips_per_day": 26454.8
+    },
+    {
+     "month": "2024-02",
+     "relation": "entering",
+     "trips_per_day": 14289.1
+    },
+    {
+     "month": "2024-02",
+     "relation": "inside",
+     "trips_per_day": 43065.6
+    },
+    {
+     "month": "2024-02",
+     "relation": "leaving",
+     "trips_per_day": 17397.3
+    },
+    {
+     "month": "2024-02",
+     "relation": "outside",
+     "trips_per_day": 27060.6
+    },
+    {
+     "month": "2024-03",
+     "relation": "entering",
+     "trips_per_day": 16448.3
+    },
+    {
+     "month": "2024-03",
+     "relation": "inside",
+     "trips_per_day": 48517.7
+    },
+    {
+     "month": "2024-03",
+     "relation": "leaving",
+     "trips_per_day": 19192.3
+    },
+    {
+     "month": "2024-03",
+     "relation": "outside",
+     "trips_per_day": 29232.5
+    },
+    {
+     "month": "2024-04",
+     "relation": "entering",
+     "trips_per_day": 17274.3
+    },
+    {
+     "month": "2024-04",
+     "relation": "inside",
+     "trips_per_day": 47332.6
+    },
+    {
+     "month": "2024-04",
+     "relation": "leaving",
+     "trips_per_day": 19509.3
+    },
+    {
+     "month": "2024-04",
+     "relation": "outside",
+     "trips_per_day": 30798.2
+    },
+    {
+     "month": "2024-05",
+     "relation": "entering",
+     "trips_per_day": 18019.9
+    },
+    {
+     "month": "2024-05",
+     "relation": "inside",
+     "trips_per_day": 47788.5
+    },
+    {
+     "month": "2024-05",
+     "relation": "leaving",
+     "trips_per_day": 19912.4
+    },
+    {
+     "month": "2024-05",
+     "relation": "outside",
+     "trips_per_day": 32025.1
+    },
+    {
+     "month": "2024-06",
+     "relation": "entering",
+     "trips_per_day": 17198.5
+    },
+    {
+     "month": "2024-06",
+     "relation": "inside",
+     "trips_per_day": 49097.3
+    },
+    {
+     "month": "2024-06",
+     "relation": "leaving",
+     "trips_per_day": 19509.1
+    },
+    {
+     "month": "2024-06",
+     "relation": "outside",
+     "trips_per_day": 29736.8
+    },
+    {
+     "month": "2024-07",
+     "relation": "entering",
+     "trips_per_day": 14369.6
+    },
+    {
+     "month": "2024-07",
+     "relation": "inside",
+     "trips_per_day": 42114.8
+    },
+    {
+     "month": "2024-07",
+     "relation": "leaving",
+     "trips_per_day": 16155.7
+    },
+    {
+     "month": "2024-07",
+     "relation": "outside",
+     "trips_per_day": 24344.0
+    },
+    {
+     "month": "2024-08",
+     "relation": "entering",
+     "trips_per_day": 13632.6
+    },
+    {
+     "month": "2024-08",
+     "relation": "inside",
+     "trips_per_day": 40704.7
+    },
+    {
+     "month": "2024-08",
+     "relation": "leaving",
+     "trips_per_day": 15390.4
+    },
+    {
+     "month": "2024-08",
+     "relation": "outside",
+     "trips_per_day": 24095.4
+    },
+    {
+     "month": "2024-09",
+     "relation": "entering",
+     "trips_per_day": 17376.0
+    },
+    {
+     "month": "2024-09",
+     "relation": "inside",
+     "trips_per_day": 49882.0
+    },
+    {
+     "month": "2024-09",
+     "relation": "leaving",
+     "trips_per_day": 19538.3
+    },
+    {
+     "month": "2024-09",
+     "relation": "outside",
+     "trips_per_day": 31781.5
+    },
+    {
+     "month": "2024-10",
+     "relation": "entering",
+     "trips_per_day": 18226.8
+    },
+    {
+     "month": "2024-10",
+     "relation": "inside",
+     "trips_per_day": 49554.6
+    },
+    {
+     "month": "2024-10",
+     "relation": "leaving",
+     "trips_per_day": 20447.5
+    },
+    {
+     "month": "2024-10",
+     "relation": "outside",
+     "trips_per_day": 32606.4
+    },
+    {
+     "month": "2024-11",
+     "relation": "entering",
+     "trips_per_day": 17666.2
+    },
+    {
+     "month": "2024-11",
+     "relation": "inside",
+     "trips_per_day": 48904.1
+    },
+    {
+     "month": "2024-11",
+     "relation": "leaving",
+     "trips_per_day": 19824.3
+    },
+    {
+     "month": "2024-11",
+     "relation": "outside",
+     "trips_per_day": 32477.1
+    },
+    {
+     "month": "2024-12",
+     "relation": "entering",
+     "trips_per_day": 16451.8
+    },
+    {
+     "month": "2024-12",
+     "relation": "inside",
+     "trips_per_day": 48062.5
+    },
+    {
+     "month": "2024-12",
+     "relation": "leaving",
+     "trips_per_day": 18745.8
+    },
+    {
+     "month": "2024-12",
+     "relation": "outside",
+     "trips_per_day": 32150.4
+    },
+    {
+     "month": "2025-01",
+     "relation": "entering",
+     "trips_per_day": 15029.0
+    },
+    {
+     "month": "2025-01",
+     "relation": "inside",
+     "trips_per_day": 46481.2
+    },
+    {
+     "month": "2025-01",
+     "relation": "leaving",
+     "trips_per_day": 17441.6
+    },
+    {
+     "month": "2025-01",
+     "relation": "outside",
+     "trips_per_day": 30564.2
+    },
+    {
+     "month": "2025-02",
+     "relation": "entering",
+     "trips_per_day": 17057.3
+    },
+    {
+     "month": "2025-02",
+     "relation": "inside",
+     "trips_per_day": 54169.7
+    },
+    {
+     "month": "2025-02",
+     "relation": "leaving",
+     "trips_per_day": 19453.6
+    },
+    {
+     "month": "2025-02",
+     "relation": "outside",
+     "trips_per_day": 34592.2
+    },
+    {
+     "month": "2025-03",
+     "relation": "entering",
+     "trips_per_day": 18293.7
+    },
+    {
+     "month": "2025-03",
+     "relation": "inside",
+     "trips_per_day": 55569.7
+    },
+    {
+     "month": "2025-03",
+     "relation": "leaving",
+     "trips_per_day": 20693.2
+    },
+    {
+     "month": "2025-03",
+     "relation": "outside",
+     "trips_per_day": 36452.2
+    },
+    {
+     "month": "2025-04",
+     "relation": "entering",
+     "trips_per_day": 19014.1
+    },
+    {
+     "month": "2025-04",
+     "relation": "inside",
+     "trips_per_day": 52767.4
+    },
+    {
+     "month": "2025-04",
+     "relation": "leaving",
+     "trips_per_day": 21047.0
+    },
+    {
+     "month": "2025-04",
+     "relation": "outside",
+     "trips_per_day": 36618.8
+    },
+    {
+     "month": "2025-05",
+     "relation": "entering",
+     "trips_per_day": 21817.0
+    },
+    {
+     "month": "2025-05",
+     "relation": "inside",
+     "trips_per_day": 56967.0
+    },
+    {
+     "month": "2025-05",
+     "relation": "leaving",
+     "trips_per_day": 23359.2
+    },
+    {
+     "month": "2025-05",
+     "relation": "outside",
+     "trips_per_day": 41842.8
+    },
+    {
+     "month": "2025-06",
+     "relation": "entering",
+     "trips_per_day": 21153.0
+    },
+    {
+     "month": "2025-06",
+     "relation": "inside",
+     "trips_per_day": 56710.1
+    },
+    {
+     "month": "2025-06",
+     "relation": "leaving",
+     "trips_per_day": 23165.3
+    },
+    {
+     "month": "2025-06",
+     "relation": "outside",
+     "trips_per_day": 40113.5
+    },
+    {
+     "month": "2025-07",
+     "relation": "entering",
+     "trips_per_day": 18188.8
+    },
+    {
+     "month": "2025-07",
+     "relation": "inside",
+     "trips_per_day": 50859.4
+    },
+    {
+     "month": "2025-07",
+     "relation": "leaving",
+     "trips_per_day": 20011.8
+    },
+    {
+     "month": "2025-07",
+     "relation": "outside",
+     "trips_per_day": 33850.8
+    },
+    {
+     "month": "2025-08",
+     "relation": "entering",
+     "trips_per_day": 16709.7
+    },
+    {
+     "month": "2025-08",
+     "relation": "inside",
+     "trips_per_day": 45582.4
+    },
+    {
+     "month": "2025-08",
+     "relation": "leaving",
+     "trips_per_day": 18495.2
+    },
+    {
+     "month": "2025-08",
+     "relation": "outside",
+     "trips_per_day": 31306.3
+    },
+    {
+     "month": "2025-09",
+     "relation": "entering",
+     "trips_per_day": 20750.9
+    },
+    {
+     "month": "2025-09",
+     "relation": "inside",
+     "trips_per_day": 56075.1
+    },
+    {
+     "month": "2025-09",
+     "relation": "leaving",
+     "trips_per_day": 23205.6
+    },
+    {
+     "month": "2025-09",
+     "relation": "outside",
+     "trips_per_day": 38636.1
+    },
+    {
+     "month": "2025-10",
+     "relation": "entering",
+     "trips_per_day": 21476.7
+    },
+    {
+     "month": "2025-10",
+     "relation": "inside",
+     "trips_per_day": 54944.3
+    },
+    {
+     "month": "2025-10",
+     "relation": "leaving",
+     "trips_per_day": 23595.6
+    },
+    {
+     "month": "2025-10",
+     "relation": "outside",
+     "trips_per_day": 38886.1
+    },
+    {
+     "month": "2025-11",
+     "relation": "entering",
+     "trips_per_day": 20542.1
+    },
+    {
+     "month": "2025-11",
+     "relation": "inside",
+     "trips_per_day": 52878.8
+    },
+    {
+     "month": "2025-11",
+     "relation": "leaving",
+     "trips_per_day": 22815.3
+    },
+    {
+     "month": "2025-11",
+     "relation": "outside",
+     "trips_per_day": 38474.3
+    },
+    {
+     "month": "2025-12",
+     "relation": "entering",
+     "trips_per_day": 20524.9
+    },
+    {
+     "month": "2025-12",
+     "relation": "inside",
+     "trips_per_day": 53519.3
+    },
+    {
+     "month": "2025-12",
+     "relation": "leaving",
+     "trips_per_day": 22121.7
+    },
+    {
+     "month": "2025-12",
+     "relation": "outside",
+     "trips_per_day": 40709.5
+    },
+    {
+     "month": "2026-01",
+     "relation": "entering",
+     "trips_per_day": 17299.3
+    },
+    {
+     "month": "2026-01",
+     "relation": "inside",
+     "trips_per_day": 45550.9
+    },
+    {
+     "month": "2026-01",
+     "relation": "leaving",
+     "trips_per_day": 19198.7
+    },
+    {
+     "month": "2026-01",
+     "relation": "outside",
+     "trips_per_day": 36496.7
+    },
+    {
+     "month": "2026-02",
+     "relation": "entering",
+     "trips_per_day": 17056.7
+    },
+    {
+     "month": "2026-02",
+     "relation": "inside",
+     "trips_per_day": 47037.7
+    },
+    {
+     "month": "2026-02",
+     "relation": "leaving",
+     "trips_per_day": 19166.1
+    },
+    {
+     "month": "2026-02",
+     "relation": "outside",
+     "trips_per_day": 36880.0
+    },
+    {
+     "month": "2026-03",
+     "relation": "entering",
+     "trips_per_day": 18492.0
+    },
+    {
+     "month": "2026-03",
+     "relation": "inside",
+     "trips_per_day": 49565.6
+    },
+    {
+     "month": "2026-03",
+     "relation": "leaving",
+     "trips_per_day": 20812.9
+    },
+    {
+     "month": "2026-03",
+     "relation": "outside",
+     "trips_per_day": 37629.8
+    },
+    {
+     "month": "2026-04",
+     "relation": "entering",
+     "trips_per_day": 19206.9
+    },
+    {
+     "month": "2026-04",
+     "relation": "inside",
+     "trips_per_day": 48913.6
+    },
+    {
+     "month": "2026-04",
+     "relation": "leaving",
+     "trips_per_day": 21341.8
+    },
+    {
+     "month": "2026-04",
+     "relation": "outside",
+     "trips_per_day": 37460.2
+    },
+    {
+     "month": "2026-05",
+     "relation": "entering",
+     "trips_per_day": 20132.8
+    },
+    {
+     "month": "2026-05",
+     "relation": "inside",
+     "trips_per_day": 49581.1
+    },
+    {
+     "month": "2026-05",
+     "relation": "leaving",
+     "trips_per_day": 22226.7
+    },
+    {
+     "month": "2026-05",
+     "relation": "outside",
+     "trips_per_day": 39243.1
+    },
+    {
+     "month": "2026-06",
+     "relation": "entering",
+     "trips_per_day": 19486.6
+    },
+    {
+     "month": "2026-06",
+     "relation": "inside",
+     "trips_per_day": 50785.1
+    },
+    {
+     "month": "2026-06",
+     "relation": "leaving",
+     "trips_per_day": 21964.1
+    },
+    {
+     "month": "2026-06",
+     "relation": "outside",
+     "trips_per_day": 34890.5
+    },
+    {
+     "month": "2026-07",
+     "relation": "entering",
+     "trips_per_day": 17679.9
+    },
+    {
+     "month": "2026-07",
+     "relation": "inside",
+     "trips_per_day": 46647.5
+    },
+    {
+     "month": "2026-07",
+     "relation": "leaving",
+     "trips_per_day": 20219.7
+    },
+    {
+     "month": "2026-07",
+     "relation": "outside",
+     "trips_per_day": 28585.6
+    },
+    {
+     "month": "2026-08",
+     "relation": "entering",
+     "trips_per_day": 16980.8
+    },
+    {
+     "month": "2026-08",
+     "relation": "inside",
+     "trips_per_day": 42846.4
+    },
+    {
+     "month": "2026-08",
+     "relation": "leaving",
+     "trips_per_day": 19849.8
+    },
+    {
+     "month": "2026-08",
+     "relation": "outside",
+     "trips_per_day": 27204.0
+    },
+    {
+     "month": "2026-09",
+     "relation": "entering",
+     "trips_per_day": 20822.4
+    },
+    {
+     "month": "2026-09",
+     "relation": "inside",
+     "trips_per_day": 49670.6
+    },
+    {
+     "month": "2026-09",
+     "relation": "leaving",
+     "trips_per_day": 23369.2
+    },
+    {
+     "month": "2026-09",
+     "relation": "outside",
+     "trips_per_day": 34585.2
+    }
+   ],
+   "event_study_naive": {
+    "treated": "treated",
+    "control": "control",
+    "pairs": {
+     "treated": 1411,
+     "control": 903
+    },
+    "observations": 96472,
+    "reference_month": "2024-12",
+    "coefficients": [
+     {
+      "month": "2023-01",
+      "beta": -0.05707123841920409,
+      "se": 0.00636871408360027,
+      "pct": -5.547321962495873,
+      "ci_low_pct": -6.719016323366887,
+      "ci_high_pct": -4.36091005018848
+     },
+     {
+      "month": "2023-02",
+      "beta": -0.04813384543389591,
+      "se": 0.00573668804268844,
+      "pct": -4.699377699066303,
+      "ci_low_pct": -5.764927484072552,
+      "ci_high_pct": -3.621779360225334
+     },
+     {
+      "month": "2023-03",
+      "beta": -0.08364046809016065,
+      "se": 0.006177939091423301,
+      "pct": -8.023811959797268,
+      "ci_low_pct": -9.130813867014444,
+      "ci_high_pct": -6.903324147459415
+     },
+     {
+      "month": "2023-04",
+      "beta": -0.08044242096723715,
+      "se": 0.006083147135276932,
+      "pct": -7.729196930983215,
+      "ci_low_pct": -8.82280630849235,
+      "ci_high_pct": -6.622470441374509
+     },
+     {
+      "month": "2023-05",
+      "beta": -0.09939220287666202,
+      "se": 0.006138468808003495,
+      "pct": -9.461245721908634,
+      "ci_low_pct": -10.544026840065323,
+      "ci_high_pct": -8.365358548243048
+     },
+     {
+      "month": "2023-06",
+      "beta": -0.08829258725290834,
+      "se": 0.0058532774721992975,
+      "pct": -8.450702404183012,
+      "ci_low_pct": -9.494993022864643,
+      "ci_high_pct": -7.394362254401497
+     },
+     {
+      "month": "2023-07",
+      "beta": -0.0704548736104728,
+      "se": 0.005634778150429204,
+      "pct": -6.803020499111574,
+      "ci_low_pct": -7.8266404162669705,
+      "ci_high_pct": -5.7680328967646055
+     },
+     {
+      "month": "2023-08",
+      "beta": -0.10541611578695977,
+      "se": 0.00551289945755137,
+      "pct": -10.005003872512743,
+      "ci_low_pct": -10.972190495772848,
+      "ci_high_pct": -9.0273098587033
+     },
+     {
+      "month": "2023-09",
+      "beta": -0.03615946013648622,
+      "se": 0.005496137763317509,
+      "pct": -3.5513515926175283,
+      "ci_low_pct": -4.584761744952905,
+      "ci_high_pct": -2.506748924678982
+     },
+     {
+      "month": "2023-10",
+      "beta": -0.028837909778797313,
+      "se": 0.005643352546353452,
+      "pct": -2.8426065661971474,
+      "ci_low_pct": -3.911340164681236,
+      "ci_high_pct": -1.761986117521931
+     },
+     {
+      "month": "2023-11",
+      "beta": -0.025358246834687983,
+      "se": 0.005503063041735999,
+      "pct": -2.5039427081939847,
+      "ci_low_pct": -3.5498846225962284,
+      "ci_high_pct": -1.4466581999127939
+     },
+     {
+      "month": "2023-12",
+      "beta": 0.0027922424008199973,
+      "se": 0.004715278695833166,
+      "pct": 0.2796144340507735,
+      "ci_low_pct": -0.6428949147699884,
+      "ci_high_pct": 1.2106890837418829
+     },
+     {
+      "month": "2024-01",
+      "beta": -0.05054080601450213,
+      "se": 0.006446699766822854,
+      "pct": -4.928486701472038,
+      "ci_low_pct": -6.122208271228939,
+      "ci_high_pct": -3.7195861297396755
+     },
+     {
+      "month": "2024-02",
+      "beta": -0.05524907263655726,
+      "se": 0.006483649954633773,
+      "pct": -5.375056624158258,
+      "ci_low_pct": -6.569937716216286,
+      "ci_high_pct": -4.164894146331472
+     },
+     {
+      "month": "2024-03",
+      "beta": -0.09337007386042051,
+      "se": 0.005038177081321264,
+      "pct": -8.914364621170145,
+      "ci_low_pct": -9.809393121112976,
+      "ci_high_pct": -8.01045408746092
+     },
+     {
+      "month": "2024-04",
+      "beta": -0.06405016279890537,
+      "se": 0.004921472330159151,
+      "pct": -6.204205224529995,
+      "ci_low_pct": -7.1046177953755185,
+      "ci_high_pct": -5.295065171451277
+     },
+     {
+      "month": "2024-05",
+      "beta": -0.08229835657466007,
+      "se": 0.004381875051605749,
+      "pct": -7.900286784938629,
+      "ci_low_pct": -8.687895856967227,
+      "ci_high_pct": -7.105884220895323
+     },
+     {
+      "month": "2024-06",
+      "beta": -0.09002474803769293,
+      "se": 0.004217542899287683,
+      "pct": -8.609143245232035,
+      "ci_low_pct": -9.36150124446884,
+      "ci_high_pct": -7.8505401893494655
+     },
+     {
+      "month": "2024-07",
+      "beta": -0.08386311780723808,
+      "se": 0.004627405512370877,
+      "pct": -8.04428815244844,
+      "ci_low_pct": -8.874529516056104,
+      "ci_high_pct": -7.206482485269178
+     },
+     {
+      "month": "2024-08",
+      "beta": -0.10658895951179495,
+      "se": 0.004547825695511032,
+      "pct": -10.110492066312231,
+      "ci_low_pct": -10.908183135201535,
+      "ci_high_pct": -9.30565880340581
+     },
+     {
+      "month": "2024-09",
+      "beta": -0.046622977066232175,
+      "se": 0.004511577627427966,
+      "pct": -4.555282176140246,
+      "ci_low_pct": -5.395549843761824,
+      "ci_high_pct": -3.7075513315530597
+     },
+     {
+      "month": "2024-10",
+      "beta": -0.01717987951903375,
+      "se": 0.004167976232402195,
+      "pct": -1.7033146873563407,
+      "ci_low_pct": -2.5030521848750897,
+      "ci_high_pct": -0.897017188942483
+     },
+     {
+      "month": "2024-11",
+      "beta": -0.0173753217209716,
+      "se": 0.0040013106949566505,
+      "pct": -1.7225241307479326,
+      "ci_low_pct": -2.490257576422454,
+      "ci_high_pct": -0.9487460106751657
+     },
+     {
+      "month": "2025-01",
+      "beta": -0.08877670590623889,
+      "se": 0.004838960007350642,
+      "pct": -8.49501240033521,
+      "ci_low_pct": -9.358776193327238,
+      "ci_high_pct": -7.623017386947533
+     },
+     {
+      "month": "2025-02",
+      "beta": -0.05374905688679315,
+      "se": 0.00530513859728438,
+      "pct": -5.2330112102289945,
+      "ci_low_pct": -6.213299762108303,
+      "ci_high_pct": -4.242476369243575
+     },
+     {
+      "month": "2025-03",
+      "beta": -0.06355161096201374,
+      "se": 0.0051274999138544285,
+      "pct": -6.1574315001576885,
+      "ci_low_pct": -7.095816676864905,
+      "ci_high_pct": -5.209568098591627
+     },
+     {
+      "month": "2025-04",
+      "beta": -0.041271326674576496,
+      "se": 0.0048718722637188586,
+      "pct": -4.043126197095731,
+      "ci_low_pct": -4.955045049560128,
+      "ci_high_pct": -3.1224578429464347
+     },
+     {
+      "month": "2025-05",
+      "beta": -0.04621704336669872,
+      "se": 0.005013917789707928,
+      "pct": -4.5165300838751286,
+      "ci_low_pct": -5.4502771588215015,
+      "ci_high_pct": -3.5735615794652835
+     },
+     {
+      "month": "2025-06",
+      "beta": -0.07837605743155256,
+      "se": 0.005145830009932461,
+      "pct": -7.53833478073211,
+      "ci_low_pct": -8.46620011355038,
+      "ci_high_pct": -6.601063806752718
+     },
+     {
+      "month": "2025-07",
+      "beta": -0.04722552070267392,
+      "se": 0.004915139429122078,
+      "pct": -4.612774460952389,
+      "ci_low_pct": -5.527291674124042,
+      "ci_high_pct": -3.6894045140335208
+     },
+     {
+      "month": "2025-08",
+      "beta": -0.08634055562009402,
+      "se": 0.00491487563743272,
+      "pct": -8.271820744786504,
+      "ci_low_pct": -9.151210179674353,
+      "ci_high_pct": -7.383919080074554
+     },
+     {
+      "month": "2025-09",
+      "beta": -0.02718314382085791,
+      "se": 0.004521725446198725,
+      "pct": -2.6817007249432,
+      "ci_low_pct": -3.5403814356675984,
+      "ci_high_pct": -1.8153760635797218
+     },
+     {
+      "month": "2025-10",
+      "beta": -0.017844157282298555,
+      "se": 0.0044573525844337795,
+      "pct": -1.7685893069727263,
+      "ci_low_pct": -2.623041433168921,
+      "ci_high_pct": -0.9066396326223641
+     },
+     {
+      "month": "2025-11",
+      "beta": 0.0002057771564895347,
+      "se": 0.004240509591998133,
+      "pct": 0.020579833006092202,
+      "ci_low_pct": -0.8072859671187813,
+      "ci_high_pct": 0.8553550295488235
+     },
+     {
+      "month": "2025-12",
+      "beta": 0.017508249905791518,
+      "se": 0.004057042225218869,
+      "pct": 1.7662417735204283,
+      "ci_low_pct": 0.9602255791730666,
+      "ci_high_pct": 2.5786928000189993
+     },
+     {
+      "month": "2026-01",
+      "beta": -0.06575553342458844,
+      "se": 0.005165896855023978,
+      "pct": -6.364025502615234,
+      "ci_low_pct": -7.307320957052525,
+      "ci_high_pct": -5.4111305164398456
+     },
+     {
+      "month": "2026-02",
+      "beta": -0.04704276409618262,
+      "se": 0.004884169946884042,
+      "pct": -4.595340222247626,
+      "ci_low_pct": -5.504288851670847,
+      "ci_high_pct": -3.677648469979036
+     },
+     {
+      "month": "2026-03",
+      "beta": -0.06061651448390267,
+      "se": 0.004728663796277535,
+      "pct": -5.881589895021489,
+      "ci_low_pct": -6.749866471540446,
+      "ci_high_pct": -5.0052285663975775
+     },
+     {
+      "month": "2026-04",
+      "beta": -0.03853656113693612,
+      "se": 0.004517857008887448,
+      "pct": -3.780347490219597,
+      "ci_low_pct": -4.628611257448535,
+      "ci_high_pct": -2.924538992560699
+     },
+     {
+      "month": "2026-05",
+      "beta": -0.05577599033463715,
+      "se": 0.0044610691301851055,
+      "pct": -5.424903047868089,
+      "ci_low_pct": -6.248234173266556,
+      "ci_high_pct": -4.594341401144798
+     },
+     {
+      "month": "2026-06",
+      "beta": -0.009588286498628102,
+      "se": 0.005360827160579866,
+      "pct": -0.9542465445042324,
+      "ci_low_pct": -1.9894938776369158,
+      "ci_high_pct": 0.09193570859938002
+     },
+     {
+      "month": "2026-07",
+      "beta": 0.01362822684344961,
+      "se": 0.0053777155775348,
+      "pct": 1.372151442662703,
+      "ci_low_pct": 0.30926767990638354,
+      "ci_high_pct": 2.4462975934242475
+     },
+     {
+      "month": "2026-08",
+      "beta": -0.020566307750450596,
+      "se": 0.00547093489424649,
+      "pct": -2.035626365153856,
+      "ci_low_pct": -3.0804894547863384,
+      "ci_high_pct": -0.9794988885064698
+     },
+     {
+      "month": "2026-09",
+      "beta": 0.02424081210531052,
+      "se": 0.005568600132960514,
+      "pct": 2.453700910044461,
+      "ci_low_pct": 1.341554748421783,
+      "ci_high_pct": 3.5780520263659557
+     }
+    ],
+    "pretrend_wald_chi2": 1694.937011951024,
+    "pretrend_df": 23,
+    "pretrend_p": 0.0,
+    "avg_post_effect_pct": -3.7050205819895266,
+    "avg_post_ci_pct": [
+     -4.500531457363218,
+     -2.902883098504867
+    ]
+   },
+   "did_seasonal": {
+    "post_start": "2025-01",
+    "end": null,
+    "treated": "treated",
+    "control": "control",
+    "pairs": 2314,
+    "observations": 96472,
+    "att_pct": 2.8724271027381336,
+    "ci_pct": [
+     2.304563463862545,
+     3.443442791741681
+    ],
+    "z": 10.027543887702588
+   },
+   "did_seasonal_adjacent_control": {
+    "post_start": "2025-01",
+    "end": null,
+    "treated": "treated",
+    "control": "adjacent",
+    "pairs": 3391,
+    "observations": 148574,
+    "att_pct": 2.8236327627471556,
+    "ci_pct": [
+     2.5531633198768198,
+     3.094815530464414
+    ],
+    "z": 20.720808789196006
+   },
+   "placebo_2024": {
+    "post_start": "2024-01",
+    "end": "2025-01",
+    "treated": "treated",
+    "control": "control",
+    "pairs": 1992,
+    "observations": 46213,
+    "att_pct": 1.3732513720601955,
+    "ci_pct": [
+     0.9499678844636927,
+     1.7983096884617644
+    ],
+    "z": 6.388881445328649
+   },
+   "did_trend": {
+    "att_pct": -0.10649586965824277,
+    "ci_pct": [
+     -0.8042024389355841,
+     0.5961181096987754
+    ],
+    "trend_pct_per_year": 1.6387647646410213,
+    "pairs": 2314,
+    "observations": 96472
+   },
+   "verdict": {
+    "placebo_passes": false,
+    "naive_pretrend_passes": false,
+    "credible_causal_estimate": false,
+    "summary": "Seasonal DiD: +2.9% pace (CI +2.3..+3.4); 2024 placebo +1.4% (CI +0.9..+1.8) \u2014 placebo FAILS: pre-existing differential drift; no causal claim."
+   }
+  },
+  "hvfhv": {
+   "pace_by_month": [
+    {
+     "group": "adjacent",
+     "month": "2023-01",
+     "min_per_mile": 5.552,
+     "trips": 2345035
+    },
+    {
+     "group": "adjacent",
+     "month": "2023-02",
+     "min_per_mile": 5.57,
+     "trips": 2293380
+    },
+    {
+     "group": "adjacent",
+     "month": "2023-03",
+     "min_per_mile": 5.649,
+     "trips": 2496053
+    },
+    {
+     "group": "adjacent",
+     "month": "2023-04",
+     "min_per_mile": 5.629,
+     "trips": 2413479
+    },
+    {
+     "group": "adjacent",
+     "month": "2023-05",
+     "min_per_mile": 5.908,
+     "trips": 2459779
+    },
+    {
+     "group": "adjacent",
+     "month": "2023-06",
+     "min_per_mile": 5.767,
+     "trips": 2332966
+    },
+    {
+     "group": "adjacent",
+     "month": "2023-07",
+     "min_per_mile": 5.415,
+     "trips": 2216379
+    },
+    {
+     "group": "adjacent",
+     "month": "2023-08",
+     "min_per_mile": 5.419,
+     "trips": 2093990
+    },
+    {
+     "group": "adjacent",
+     "month": "2023-09",
+     "min_per_mile": 5.95,
+     "trips": 2367618
+    },
+    {
+     "group": "adjacent",
+     "month": "2023-10",
+     "min_per_mile": 5.957,
+     "trips": 2470564
+    },
+    {
+     "group": "adjacent",
+     "month": "2023-11",
+     "min_per_mile": 6.025,
+     "trips": 2348689
+    },
+    {
+     "group": "adjacent",
+     "month": "2023-12",
+     "min_per_mile": 6.036,
+     "trips": 2443057
+    },
+    {
+     "group": "adjacent",
+     "month": "2024-01",
+     "min_per_mile": 5.656,
+     "trips": 2476432
+    },
+    {
+     "group": "adjacent",
+     "month": "2024-02",
+     "min_per_mile": 5.658,
+     "trips": 2368135
+    },
+    {
+     "group": "adjacent",
+     "month": "2024-03",
+     "min_per_mile": 5.716,
+     "trips": 2461870
+    },
+    {
+     "group": "adjacent",
+     "month": "2024-04",
+     "min_per_mile": 5.815,
+     "trips": 2376700
+    },
+    {
+     "group": "adjacent",
+     "month": "2024-05",
+     "min_per_mile": 5.991,
+     "trips": 2447856
+    },
+    {
+     "group": "adjacent",
+     "month": "2024-06",
+     "min_per_mile": 5.731,
+     "trips": 2246244
+    },
+    {
+     "group": "adjacent",
+     "month": "2024-07",
+     "min_per_mile": 5.534,
+     "trips": 2141352
+    },
+    {
+     "group": "adjacent",
+     "month": "2024-08",
+     "min_per_mile": 5.514,
+     "trips": 2071899
+    },
+    {
+     "group": "adjacent",
+     "month": "2024-09",
+     "min_per_mile": 5.983,
+     "trips": 2141753
+    },
+    {
+     "group": "adjacent",
+     "month": "2024-10",
+     "min_per_mile": 6.013,
+     "trips": 2327725
+    },
+    {
+     "group": "adjacent",
+     "month": "2024-11",
+     "min_per_mile": 5.969,
+     "trips": 2361017
+    },
+    {
+     "group": "adjacent",
+     "month": "2024-12",
+     "min_per_mile": 6.13,
+     "trips": 2390003
+    },
+    {
+     "group": "adjacent",
+     "month": "2025-01",
+     "min_per_mile": 5.643,
+     "trips": 2414901
+    },
+    {
+     "group": "adjacent",
+     "month": "2025-02",
+     "min_per_mile": 5.723,
+     "trips": 2199885
+    },
+    {
+     "group": "adjacent",
+     "month": "2025-03",
+     "min_per_mile": 5.627,
+     "trips": 2220852
+    },
+    {
+     "group": "adjacent",
+     "month": "2025-04",
+     "min_per_mile": 5.809,
+     "trips": 2258515
+    },
+    {
+     "group": "adjacent",
+     "month": "2025-05",
+     "min_per_mile": 6.105,
+     "trips": 2267100
+    },
+    {
+     "group": "adjacent",
+     "month": "2025-06",
+     "min_per_mile": 5.829,
+     "trips": 2011654
+    },
+    {
+     "group": "adjacent",
+     "month": "2025-07",
+     "min_per_mile": 5.72,
+     "trips": 1960009
+    },
+    {
+     "group": "adjacent",
+     "month": "2025-08",
+     "min_per_mile": 5.509,
+     "trips": 1889095
+    },
+    {
+     "group": "adjacent",
+     "month": "2025-09",
+     "min_per_mile": 6.058,
+     "trips": 2080710
+    },
+    {
+     "group": "adjacent",
+     "month": "2025-10",
+     "min_per_mile": 6.139,
+     "trips": 2351042
+    },
+    {
+     "group": "adjacent",
+     "month": "2025-11",
+     "min_per_mile": 6.113,
+     "trips": 2290564
+    },
+    {
+     "group": "adjacent",
+     "month": "2025-12",
+     "min_per_mile": 6.3,
+     "trips": 2314370
+    },
+    {
+     "group": "adjacent",
+     "month": "2026-01",
+     "min_per_mile": 5.983,
+     "trips": 2220670
+    },
+    {
+     "group": "adjacent",
+     "month": "2026-02",
+     "min_per_mile": 6.174,
+     "trips": 2074243
+    },
+    {
+     "group": "adjacent",
+     "month": "2026-03",
+     "min_per_mile": 5.893,
+     "trips": 2293963
+    },
+    {
+     "group": "adjacent",
+     "month": "2026-04",
+     "min_per_mile": 6.032,
+     "trips": 2308317
+    },
+    {
+     "group": "adjacent",
+     "month": "2026-05",
+     "min_per_mile": 6.122,
+     "trips": 2359589
+    },
+    {
+     "group": "adjacent",
+     "month": "2026-06",
+     "min_per_mile": 6.025,
+     "trips": 2058318
+    },
+    {
+     "group": "adjacent",
+     "month": "2026-07",
+     "min_per_mile": 5.762,
+     "trips": 2105149
+    },
+    {
+     "group": "adjacent",
+     "month": "2026-08",
+     "min_per_mile": 5.637,
+     "trips": 2002693
+    },
+    {
+     "group": "adjacent",
+     "month": "2026-09",
+     "min_per_mile": 6.082,
+     "trips": 2168910
+    },
+    {
+     "group": "control",
+     "month": "2023-01",
+     "min_per_mile": 5.032,
+     "trips": 8717679
+    },
+    {
+     "group": "control",
+     "month": "2023-02",
+     "min_per_mile": 5.081,
+     "trips": 8346452
+    },
+    {
+     "group": "control",
+     "month": "2023-03",
+     "min_per_mile": 5.178,
+     "trips": 9712875
+    },
+    {
+     "group": "control",
+     "month": "2023-04",
+     "min_per_mile": 5.023,
+     "trips": 8926341
+    },
+    {
+     "group": "control",
+     "month": "2023-05",
+     "min_per_mile": 5.156,
+     "trips": 9446289
+    },
+    {
+     "group": "control",
+     "month": "2023-06",
+     "min_per_mile": 5.147,
+     "trips": 9263636
+    },
+    {
+     "group": "control",
+     "month": "2023-07",
+     "min_per_mile": 4.962,
+     "trips": 9193577
+    },
+    {
+     "group": "control",
+     "month": "2023-08",
+     "min_per_mile": 4.99,
+     "trips": 8970787
+    },
+    {
+     "group": "control",
+     "month": "2023-09",
+     "min_per_mile": 5.234,
+     "trips": 9349237
+    },
+    {
+     "group": "control",
+     "month": "2023-10",
+     "min_per_mile": 5.234,
+     "trips": 9474629
+    },
+    {
+     "group": "control",
+     "month": "2023-11",
+     "min_per_mile": 5.198,
+     "trips": 9191511
+    },
+    {
+     "group": "control",
+     "month": "2023-12",
+     "min_per_mile": 5.16,
+     "trips": 9959262
+    },
+    {
+     "group": "control",
+     "month": "2024-01",
+     "min_per_mile": 5.153,
+     "trips": 9499576
+    },
+    {
+     "group": "control",
+     "month": "2024-02",
+     "min_per_mile": 5.174,
+     "trips": 9317268
+    },
+    {
+     "group": "control",
+     "month": "2024-03",
+     "min_per_mile": 5.276,
+     "trips": 10486512
+    },
+    {
+     "group": "control",
+     "month": "2024-04",
+     "min_per_mile": 5.176,
+     "trips": 9567819
+    },
+    {
+     "group": "control",
+     "month": "2024-05",
+     "min_per_mile": 5.304,
+     "trips": 10100883
+    },
+    {
+     "group": "control",
+     "month": "2024-06",
+     "min_per_mile": 5.236,
+     "trips": 9959579
+    },
+    {
+     "group": "control",
+     "month": "2024-07",
+     "min_per_mile": 5.044,
+     "trips": 9502938
+    },
+    {
+     "group": "control",
+     "month": "2024-08",
+     "min_per_mile": 5.082,
+     "trips": 9594458
+    },
+    {
+     "group": "control",
+     "month": "2024-09",
+     "min_per_mile": 5.297,
+     "trips": 9339668
+    },
+    {
+     "group": "control",
+     "month": "2024-10",
+     "min_per_mile": 5.213,
+     "trips": 9669744
+    },
+    {
+     "group": "control",
+     "month": "2024-11",
+     "min_per_mile": 5.237,
+     "trips": 9799929
+    },
+    {
+     "group": "control",
+     "month": "2024-12",
+     "min_per_mile": 5.253,
+     "trips": 10598414
+    },
+    {
+     "group": "control",
+     "month": "2025-01",
+     "min_per_mile": 5.206,
+     "trips": 10211201
+    },
+    {
+     "group": "control",
+     "month": "2025-02",
+     "min_per_mile": 5.265,
+     "trips": 9606409
+    },
+    {
+     "group": "control",
+     "month": "2025-03",
+     "min_per_mile": 5.264,
+     "trips": 10371137
+    },
+    {
+     "group": "control",
+     "month": "2025-04",
+     "min_per_mile": 5.237,
+     "trips": 9811077
+    },
+    {
+     "group": "control",
+     "month": "2025-05",
+     "min_per_mile": 5.348,
+     "trips": 10705728
+    },
+    {
+     "group": "control",
+     "month": "2025-06",
+     "min_per_mile": 5.283,
+     "trips": 10262343
+    },
+    {
+     "group": "control",
+     "month": "2025-07",
+     "min_per_mile": 5.144,
+     "trips": 10163823
+    },
+    {
+     "group": "control",
+     "month": "2025-08",
+     "min_per_mile": 5.115,
+     "trips": 10074298
+    },
+    {
+     "group": "control",
+     "month": "2025-09",
+     "min_per_mile": 5.339,
+     "trips": 9568776
+    },
+    {
+     "group": "control",
+     "month": "2025-10",
+     "min_per_mile": 5.343,
+     "trips": 10563800
+    },
+    {
+     "group": "control",
+     "month": "2025-11",
+     "min_per_mile": 5.313,
+     "trips": 10531834
+    },
+    {
+     "group": "control",
+     "month": "2025-12",
+     "min_per_mile": 5.43,
+     "trips": 11683298
+    },
+    {
+     "group": "control",
+     "month": "2026-01",
+     "min_per_mile": 5.515,
+     "trips": 11201672
+    },
+    {
+     "group": "control",
+     "month": "2026-02",
+     "min_per_mile": 5.685,
+     "trips": 10664635
+    },
+    {
+     "group": "control",
+     "month": "2026-03",
+     "min_per_mile": 5.429,
+     "trips": 11733418
+    },
+    {
+     "group": "control",
+     "month": "2026-04",
+     "min_per_mile": 5.346,
+     "trips": 10833178
+    },
+    {
+     "group": "control",
+     "month": "2026-05",
+     "min_per_mile": 5.365,
+     "trips": 11526199
+    },
+    {
+     "group": "control",
+     "month": "2026-06",
+     "min_per_mile": 5.392,
+     "trips": 11120149
+    },
+    {
+     "group": "control",
+     "month": "2026-07",
+     "min_per_mile": 5.207,
+     "trips": 10984559
+    },
+    {
+     "group": "control",
+     "month": "2026-08",
+     "min_per_mile": 5.181,
+     "trips": 10985494
+    },
+    {
+     "group": "control",
+     "month": "2026-09",
+     "min_per_mile": 5.345,
+     "trips": 10814190
+    },
+    {
+     "group": "treated",
+     "month": "2023-01",
+     "min_per_mile": 6.926,
+     "trips": 3055353
+    },
+    {
+     "group": "treated",
+     "month": "2023-02",
+     "min_per_mile": 7.161,
+     "trips": 3089802
+    },
+    {
+     "group": "treated",
+     "month": "2023-03",
+     "min_per_mile": 7.226,
+     "trips": 3311516
+    },
+    {
+     "group": "treated",
+     "month": "2023-04",
+     "min_per_mile": 7.176,
+     "trips": 3139778
+    },
+    {
+     "group": "treated",
+     "month": "2023-05",
+     "min_per_mile": 7.335,
+     "trips": 3043021
+    },
+    {
+     "group": "treated",
+     "month": "2023-06",
+     "min_per_mile": 7.36,
+     "trips": 3049650
+    },
+    {
+     "group": "treated",
+     "month": "2023-07",
+     "min_per_mile": 7.191,
+     "trips": 3080046
+    },
+    {
+     "group": "treated",
+     "month": "2023-08",
+     "min_per_mile": 7.112,
+     "trips": 2743292
+    },
+    {
+     "group": "treated",
+     "month": "2023-09",
+     "min_per_mile": 7.812,
+     "trips": 3276690
+    },
+    {
+     "group": "treated",
+     "month": "2023-10",
+     "min_per_mile": 7.864,
+     "trips": 3250539
+    },
+    {
+     "group": "treated",
+     "month": "2023-11",
+     "min_per_mile": 7.832,
+     "trips": 2981264
+    },
+    {
+     "group": "treated",
+     "month": "2023-12",
+     "min_per_mile": 8.019,
+     "trips": 3117771
+    },
+    {
+     "group": "treated",
+     "month": "2024-01",
+     "min_per_mile": 7.137,
+     "trips": 3128441
+    },
+    {
+     "group": "treated",
+     "month": "2024-02",
+     "min_per_mile": 7.358,
+     "trips": 3044940
+    },
+    {
+     "group": "treated",
+     "month": "2024-03",
+     "min_per_mile": 7.497,
+     "trips": 3206984
+    },
+    {
+     "group": "treated",
+     "month": "2024-04",
+     "min_per_mile": 7.558,
+     "trips": 2977859
+    },
+    {
+     "group": "treated",
+     "month": "2024-05",
+     "min_per_mile": 7.671,
+     "trips": 3048596
+    },
+    {
+     "group": "treated",
+     "month": "2024-06",
+     "min_per_mile": 7.507,
+     "trips": 2921512
+    },
+    {
+     "group": "treated",
+     "month": "2024-07",
+     "min_per_mile": 7.348,
+     "trips": 2871884
+    },
+    {
+     "group": "treated",
+     "month": "2024-08",
+     "min_per_mile": 7.314,
+     "trips": 2762143
+    },
+    {
+     "group": "treated",
+     "month": "2024-09",
+     "min_per_mile": 7.828,
+     "trips": 2851485
+    },
+    {
+     "group": "treated",
+     "month": "2024-10",
+     "min_per_mile": 7.9,
+     "trips": 2955143
+    },
+    {
+     "group": "treated",
+     "month": "2024-11",
+     "min_per_mile": 7.802,
+     "trips": 2935367
+    },
+    {
+     "group": "treated",
+     "month": "2024-12",
+     "min_per_mile": 8.194,
+     "trips": 2972982
+    },
+    {
+     "group": "treated",
+     "month": "2025-01",
+     "min_per_mile": 7.02,
+     "trips": 2998971
+    },
+    {
+     "group": "treated",
+     "month": "2025-02",
+     "min_per_mile": 7.285,
+     "trips": 2842509
+    },
+    {
+     "group": "treated",
+     "month": "2025-03",
+     "min_per_mile": 7.185,
+     "trips": 2840199
+    },
+    {
+     "group": "treated",
+     "month": "2025-04",
+     "min_per_mile": 7.414,
+     "trips": 2809830
+    },
+    {
+     "group": "treated",
+     "month": "2025-05",
+     "min_per_mile": 7.698,
+     "trips": 2829658
+    },
+    {
+     "group": "treated",
+     "month": "2025-06",
+     "min_per_mile": 7.454,
+     "trips": 2629790
+    },
+    {
+     "group": "treated",
+     "month": "2025-07",
+     "min_per_mile": 7.445,
+     "trips": 2671322
+    },
+    {
+     "group": "treated",
+     "month": "2025-08",
+     "min_per_mile": 7.188,
+     "trips": 2472219
+    },
+    {
+     "group": "treated",
+     "month": "2025-09",
+     "min_per_mile": 7.891,
+     "trips": 2759505
+    },
+    {
+     "group": "treated",
+     "month": "2025-10",
+     "min_per_mile": 7.941,
+     "trips": 2989012
+    },
+    {
+     "group": "treated",
+     "month": "2025-11",
+     "min_per_mile": 7.979,
+     "trips": 2823432
+    },
+    {
+     "group": "treated",
+     "month": "2025-12",
+     "min_per_mile": 8.413,
+     "trips": 2831940
+    },
+    {
+     "group": "treated",
+     "month": "2026-01",
+     "min_per_mile": 7.519,
+     "trips": 2765134
+    },
+    {
+     "group": "treated",
+     "month": "2026-02",
+     "min_per_mile": 7.963,
+     "trips": 2589870
+    },
+    {
+     "group": "treated",
+     "month": "2026-03",
+     "min_per_mile": 7.539,
+     "trips": 2817106
+    },
+    {
+     "group": "treated",
+     "month": "2026-04",
+     "min_per_mile": 7.851,
+     "trips": 2779757
+    },
+    {
+     "group": "treated",
+     "month": "2026-05",
+     "min_per_mile": 7.908,
+     "trips": 2818519
+    },
+    {
+     "group": "treated",
+     "month": "2026-06",
+     "min_per_mile": 7.899,
+     "trips": 2550772
+    },
+    {
+     "group": "treated",
+     "month": "2026-07",
+     "min_per_mile": 7.748,
+     "trips": 2809285
+    },
+    {
+     "group": "treated",
+     "month": "2026-08",
+     "min_per_mile": 7.566,
+     "trips": 2566896
+    },
+    {
+     "group": "treated",
+     "month": "2026-09",
+     "min_per_mile": 8.091,
+     "trips": 2834139
+    }
+   ],
+   "entry_flows": [
+    {
+     "month": "2023-01",
+     "relation": "entering",
+     "trips_per_day": 51001.2
+    },
+    {
+     "month": "2023-01",
+     "relation": "inside",
+     "trips_per_day": 100170.8
+    },
+    {
+     "month": "2023-01",
+     "relation": "leaving",
+     "trips_per_day": 67257.4
+    },
+    {
+     "month": "2023-01",
+     "relation": "outside",
+     "trips_per_day": 377636.4
+    },
+    {
+     "month": "2023-02",
+     "relation": "entering",
+     "trips_per_day": 54788.2
+    },
+    {
+     "month": "2023-02",
+     "relation": "inside",
+     "trips_per_day": 112231.4
+    },
+    {
+     "month": "2023-02",
+     "relation": "leaving",
+     "trips_per_day": 73131.4
+    },
+    {
+     "month": "2023-02",
+     "relation": "outside",
+     "trips_per_day": 401280.5
+    },
+    {
+     "month": "2023-03",
+     "relation": "entering",
+     "trips_per_day": 55649.1
+    },
+    {
+     "month": "2023-03",
+     "relation": "inside",
+     "trips_per_day": 108639.7
+    },
+    {
+     "month": "2023-03",
+     "relation": "leaving",
+     "trips_per_day": 74941.2
+    },
+    {
+     "month": "2023-03",
+     "relation": "outside",
+     "trips_per_day": 419237.3
+    },
+    {
+     "month": "2023-04",
+     "relation": "entering",
+     "trips_per_day": 55594.6
+    },
+    {
+     "month": "2023-04",
+     "relation": "inside",
+     "trips_per_day": 106432.4
+    },
+    {
+     "month": "2023-04",
+     "relation": "leaving",
+     "trips_per_day": 73618.2
+    },
+    {
+     "month": "2023-04",
+     "relation": "outside",
+     "trips_per_day": 402485.2
+    },
+    {
+     "month": "2023-05",
+     "relation": "entering",
+     "trips_per_day": 55646.2
+    },
+    {
+     "month": "2023-05",
+     "relation": "inside",
+     "trips_per_day": 99653.0
+    },
+    {
+     "month": "2023-05",
+     "relation": "leaving",
+     "trips_per_day": 75499.9
+    },
+    {
+     "month": "2023-05",
+     "relation": "outside",
+     "trips_per_day": 409416.9
+    },
+    {
+     "month": "2023-06",
+     "relation": "entering",
+     "trips_per_day": 55475.9
+    },
+    {
+     "month": "2023-06",
+     "relation": "inside",
+     "trips_per_day": 103265.2
+    },
+    {
+     "month": "2023-06",
+     "relation": "leaving",
+     "trips_per_day": 75131.7
+    },
+    {
+     "month": "2023-06",
+     "relation": "outside",
+     "trips_per_day": 411650.3
+    },
+    {
+     "month": "2023-07",
+     "relation": "entering",
+     "trips_per_day": 52802.5
+    },
+    {
+     "month": "2023-07",
+     "relation": "inside",
+     "trips_per_day": 100928.3
+    },
+    {
+     "month": "2023-07",
+     "relation": "leaving",
+     "trips_per_day": 69453.7
+    },
+    {
+     "month": "2023-07",
+     "relation": "outside",
+     "trips_per_day": 393953.6
+    },
+    {
+     "month": "2023-08",
+     "relation": "entering",
+     "trips_per_day": 50275.5
+    },
+    {
+     "month": "2023-08",
+     "relation": "inside",
+     "trips_per_day": 89855.2
+    },
+    {
+     "month": "2023-08",
+     "relation": "leaving",
+     "trips_per_day": 66316.2
+    },
+    {
+     "month": "2023-08",
+     "relation": "outside",
+     "trips_per_day": 384564.4
+    },
+    {
+     "month": "2023-09",
+     "relation": "entering",
+     "trips_per_day": 57199.2
+    },
+    {
+     "month": "2023-09",
+     "relation": "inside",
+     "trips_per_day": 111312.5
+    },
+    {
+     "month": "2023-09",
+     "relation": "leaving",
+     "trips_per_day": 76344.1
+    },
+    {
+     "month": "2023-09",
+     "relation": "outside",
+     "trips_per_day": 416818.4
+    },
+    {
+     "month": "2023-10",
+     "relation": "entering",
+     "trips_per_day": 56719.0
+    },
+    {
+     "month": "2023-10",
+     "relation": "inside",
+     "trips_per_day": 106530.2
+    },
+    {
+     "month": "2023-10",
+     "relation": "leaving",
+     "trips_per_day": 77532.5
+    },
+    {
+     "month": "2023-10",
+     "relation": "outside",
+     "trips_per_day": 410363.4
+    },
+    {
+     "month": "2023-11",
+     "relation": "entering",
+     "trips_per_day": 54390.1
+    },
+    {
+     "month": "2023-11",
+     "relation": "inside",
+     "trips_per_day": 101049.1
+    },
+    {
+     "month": "2023-11",
+     "relation": "leaving",
+     "trips_per_day": 74914.3
+    },
+    {
+     "month": "2023-11",
+     "relation": "outside",
+     "trips_per_day": 411928.9
+    },
+    {
+     "month": "2023-12",
+     "relation": "entering",
+     "trips_per_day": 53386.6
+    },
+    {
+     "month": "2023-12",
+     "relation": "inside",
+     "trips_per_day": 102368.5
+    },
+    {
+     "month": "2023-12",
+     "relation": "leaving",
+     "trips_per_day": 76266.4
+    },
+    {
+     "month": "2023-12",
+     "relation": "outside",
+     "trips_per_day": 429766.2
+    },
+    {
+     "month": "2024-01",
+     "relation": "entering",
+     "trips_per_day": 52182.8
+    },
+    {
+     "month": "2024-01",
+     "relation": "inside",
+     "trips_per_day": 102814.2
+    },
+    {
+     "month": "2024-01",
+     "relation": "leaving",
+     "trips_per_day": 68217.7
+    },
+    {
+     "month": "2024-01",
+     "relation": "outside",
+     "trips_per_day": 411080.9
+    },
+    {
+     "month": "2024-02",
+     "relation": "entering",
+     "trips_per_day": 55221.0
+    },
+    {
+     "month": "2024-02",
+     "relation": "inside",
+     "trips_per_day": 106809.0
+    },
+    {
+     "month": "2024-02",
+     "relation": "leaving",
+     "trips_per_day": 74348.3
+    },
+    {
+     "month": "2024-02",
+     "relation": "outside",
+     "trips_per_day": 431153.1
+    },
+    {
+     "month": "2024-03",
+     "relation": "entering",
+     "trips_per_day": 55779.2
+    },
+    {
+     "month": "2024-03",
+     "relation": "inside",
+     "trips_per_day": 105395.1
+    },
+    {
+     "month": "2024-03",
+     "relation": "leaving",
+     "trips_per_day": 75271.3
+    },
+    {
+     "month": "2024-03",
+     "relation": "outside",
+     "trips_per_day": 450005.9
+    },
+    {
+     "month": "2024-04",
+     "relation": "entering",
+     "trips_per_day": 55008.5
+    },
+    {
+     "month": "2024-04",
+     "relation": "inside",
+     "trips_per_day": 100974.9
+    },
+    {
+     "month": "2024-04",
+     "relation": "leaving",
+     "trips_per_day": 73645.0
+    },
+    {
+     "month": "2024-04",
+     "relation": "outside",
+     "trips_per_day": 428113.9
+    },
+    {
+     "month": "2024-05",
+     "relation": "entering",
+     "trips_per_day": 55681.8
+    },
+    {
+     "month": "2024-05",
+     "relation": "inside",
+     "trips_per_day": 99972.6
+    },
+    {
+     "month": "2024-05",
+     "relation": "leaving",
+     "trips_per_day": 76870.5
+    },
+    {
+     "month": "2024-05",
+     "relation": "outside",
+     "trips_per_day": 435336.2
+    },
+    {
+     "month": "2024-06",
+     "relation": "entering",
+     "trips_per_day": 56095.7
+    },
+    {
+     "month": "2024-06",
+     "relation": "inside",
+     "trips_per_day": 98922.0
+    },
+    {
+     "month": "2024-06",
+     "relation": "leaving",
+     "trips_per_day": 76194.1
+    },
+    {
+     "month": "2024-06",
+     "relation": "outside",
+     "trips_per_day": 439533.8
+    },
+    {
+     "month": "2024-07",
+     "relation": "entering",
+     "trips_per_day": 51469.1
+    },
+    {
+     "month": "2024-07",
+     "relation": "inside",
+     "trips_per_day": 94121.0
+    },
+    {
+     "month": "2024-07",
+     "relation": "leaving",
+     "trips_per_day": 67715.1
+    },
+    {
+     "month": "2024-07",
+     "relation": "outside",
+     "trips_per_day": 405473.2
+    },
+    {
+     "month": "2024-08",
+     "relation": "entering",
+     "trips_per_day": 50507.0
+    },
+    {
+     "month": "2024-08",
+     "relation": "inside",
+     "trips_per_day": 90672.9
+    },
+    {
+     "month": "2024-08",
+     "relation": "leaving",
+     "trips_per_day": 66337.3
+    },
+    {
+     "month": "2024-08",
+     "relation": "outside",
+     "trips_per_day": 409502.2
+    },
+    {
+     "month": "2024-09",
+     "relation": "entering",
+     "trips_per_day": 54025.6
+    },
+    {
+     "month": "2024-09",
+     "relation": "inside",
+     "trips_per_day": 96626.4
+    },
+    {
+     "month": "2024-09",
+     "relation": "leaving",
+     "trips_per_day": 74019.0
+    },
+    {
+     "month": "2024-09",
+     "relation": "outside",
+     "trips_per_day": 415630.6
+    },
+    {
+     "month": "2024-10",
+     "relation": "entering",
+     "trips_per_day": 54645.1
+    },
+    {
+     "month": "2024-10",
+     "relation": "inside",
+     "trips_per_day": 96801.7
+    },
+    {
+     "month": "2024-10",
+     "relation": "leaving",
+     "trips_per_day": 76478.6
+    },
+    {
+     "month": "2024-10",
+     "relation": "outside",
+     "trips_per_day": 418122.6
+    },
+    {
+     "month": "2024-11",
+     "relation": "entering",
+     "trips_per_day": 54264.5
+    },
+    {
+     "month": "2024-11",
+     "relation": "inside",
+     "trips_per_day": 99573.7
+    },
+    {
+     "month": "2024-11",
+     "relation": "leaving",
+     "trips_per_day": 75486.1
+    },
+    {
+     "month": "2024-11",
+     "relation": "outside",
+     "trips_per_day": 436900.0
+    },
+    {
+     "month": "2024-12",
+     "relation": "entering",
+     "trips_per_day": 52460.4
+    },
+    {
+     "month": "2024-12",
+     "relation": "inside",
+     "trips_per_day": 97900.0
+    },
+    {
+     "month": "2024-12",
+     "relation": "leaving",
+     "trips_per_day": 74393.5
+    },
+    {
+     "month": "2024-12",
+     "relation": "outside",
+     "trips_per_day": 454862.0
+    },
+    {
+     "month": "2025-01",
+     "relation": "entering",
+     "trips_per_day": 51447.7
+    },
+    {
+     "month": "2025-01",
+     "relation": "inside",
+     "trips_per_day": 98590.8
+    },
+    {
+     "month": "2025-01",
+     "relation": "leaving",
+     "trips_per_day": 68778.4
+    },
+    {
+     "month": "2025-01",
+     "relation": "outside",
+     "trips_per_day": 439405.4
+    },
+    {
+     "month": "2025-02",
+     "relation": "entering",
+     "trips_per_day": 54524.1
+    },
+    {
+     "month": "2025-02",
+     "relation": "inside",
+     "trips_per_day": 103582.0
+    },
+    {
+     "month": "2025-02",
+     "relation": "leaving",
+     "trips_per_day": 74942.4
+    },
+    {
+     "month": "2025-02",
+     "relation": "outside",
+     "trips_per_day": 457621.1
+    },
+    {
+     "month": "2025-03",
+     "relation": "entering",
+     "trips_per_day": 51851.1
+    },
+    {
+     "month": "2025-03",
+     "relation": "inside",
+     "trips_per_day": 93306.8
+    },
+    {
+     "month": "2025-03",
+     "relation": "leaving",
+     "trips_per_day": 72051.3
+    },
+    {
+     "month": "2025-03",
+     "relation": "outside",
+     "trips_per_day": 445244.8
+    },
+    {
+     "month": "2025-04",
+     "relation": "entering",
+     "trips_per_day": 52799.9
+    },
+    {
+     "month": "2025-04",
+     "relation": "inside",
+     "trips_per_day": 95332.1
+    },
+    {
+     "month": "2025-04",
+     "relation": "leaving",
+     "trips_per_day": 72409.8
+    },
+    {
+     "month": "2025-04",
+     "relation": "outside",
+     "trips_per_day": 437896.1
+    },
+    {
+     "month": "2025-05",
+     "relation": "entering",
+     "trips_per_day": 53600.7
+    },
+    {
+     "month": "2025-05",
+     "relation": "inside",
+     "trips_per_day": 93059.3
+    },
+    {
+     "month": "2025-05",
+     "relation": "leaving",
+     "trips_per_day": 75218.9
+    },
+    {
+     "month": "2025-05",
+     "relation": "outside",
+     "trips_per_day": 458454.4
+    },
+    {
+     "month": "2025-06",
+     "relation": "entering",
+     "trips_per_day": 51804.0
+    },
+    {
+     "month": "2025-06",
+     "relation": "inside",
+     "trips_per_day": 89296.6
+    },
+    {
+     "month": "2025-06",
+     "relation": "leaving",
+     "trips_per_day": 71592.7
+    },
+    {
+     "month": "2025-06",
+     "relation": "outside",
+     "trips_per_day": 449524.5
+    },
+    {
+     "month": "2025-07",
+     "relation": "entering",
+     "trips_per_day": 48968.8
+    },
+    {
+     "month": "2025-07",
+     "relation": "inside",
+     "trips_per_day": 87707.5
+    },
+    {
+     "month": "2025-07",
+     "relation": "leaving",
+     "trips_per_day": 66982.1
+    },
+    {
+     "month": "2025-07",
+     "relation": "outside",
+     "trips_per_day": 430262.5
+    },
+    {
+     "month": "2025-08",
+     "relation": "entering",
+     "trips_per_day": 47736.3
+    },
+    {
+     "month": "2025-08",
+     "relation": "inside",
+     "trips_per_day": 81087.1
+    },
+    {
+     "month": "2025-08",
+     "relation": "leaving",
+     "trips_per_day": 65462.5
+    },
+    {
+     "month": "2025-08",
+     "relation": "outside",
+     "trips_per_day": 427322.1
+    },
+    {
+     "month": "2025-09",
+     "relation": "entering",
+     "trips_per_day": 53200.1
+    },
+    {
+     "month": "2025-09",
+     "relation": "inside",
+     "trips_per_day": 93655.2
+    },
+    {
+     "month": "2025-09",
+     "relation": "leaving",
+     "trips_per_day": 75210.6
+    },
+    {
+     "month": "2025-09",
+     "relation": "outside",
+     "trips_per_day": 425710.9
+    },
+    {
+     "month": "2025-10",
+     "relation": "entering",
+     "trips_per_day": 55740.9
+    },
+    {
+     "month": "2025-10",
+     "relation": "inside",
+     "trips_per_day": 98150.1
+    },
+    {
+     "month": "2025-10",
+     "relation": "leaving",
+     "trips_per_day": 79517.8
+    },
+    {
+     "month": "2025-10",
+     "relation": "outside",
+     "trips_per_day": 453928.1
+    },
+    {
+     "month": "2025-11",
+     "relation": "entering",
+     "trips_per_day": 53406.3
+    },
+    {
+     "month": "2025-11",
+     "relation": "inside",
+     "trips_per_day": 95929.8
+    },
+    {
+     "month": "2025-11",
+     "relation": "leaving",
+     "trips_per_day": 77506.6
+    },
+    {
+     "month": "2025-11",
+     "relation": "outside",
+     "trips_per_day": 467049.3
+    },
+    {
+     "month": "2025-12",
+     "relation": "entering",
+     "trips_per_day": 50106.7
+    },
+    {
+     "month": "2025-12",
+     "relation": "inside",
+     "trips_per_day": 93428.5
+    },
+    {
+     "month": "2025-12",
+     "relation": "leaving",
+     "trips_per_day": 74418.8
+    },
+    {
+     "month": "2025-12",
+     "relation": "outside",
+     "trips_per_day": 495171.1
+    },
+    {
+     "month": "2026-01",
+     "relation": "entering",
+     "trips_per_day": 47312.7
+    },
+    {
+     "month": "2026-01",
+     "relation": "inside",
+     "trips_per_day": 91204.3
+    },
+    {
+     "month": "2026-01",
+     "relation": "leaving",
+     "trips_per_day": 64557.7
+    },
+    {
+     "month": "2026-01",
+     "relation": "outside",
+     "trips_per_day": 472376.5
+    },
+    {
+     "month": "2026-02",
+     "relation": "entering",
+     "trips_per_day": 49014.9
+    },
+    {
+     "month": "2026-02",
+     "relation": "inside",
+     "trips_per_day": 94577.3
+    },
+    {
+     "month": "2026-02",
+     "relation": "leaving",
+     "trips_per_day": 69266.7
+    },
+    {
+     "month": "2026-02",
+     "relation": "outside",
+     "trips_per_day": 496937.5
+    },
+    {
+     "month": "2026-03",
+     "relation": "entering",
+     "trips_per_day": 50492.3
+    },
+    {
+     "month": "2026-03",
+     "relation": "inside",
+     "trips_per_day": 92604.6
+    },
+    {
+     "month": "2026-03",
+     "relation": "leaving",
+     "trips_per_day": 72232.9
+    },
+    {
+     "month": "2026-03",
+     "relation": "outside",
+     "trips_per_day": 496182.6
+    },
+    {
+     "month": "2026-04",
+     "relation": "entering",
+     "trips_per_day": 52497.4
+    },
+    {
+     "month": "2026-04",
+     "relation": "inside",
+     "trips_per_day": 94406.1
+    },
+    {
+     "month": "2026-04",
+     "relation": "leaving",
+     "trips_per_day": 73950.3
+    },
+    {
+     "month": "2026-04",
+     "relation": "outside",
+     "trips_per_day": 478964.2
+    },
+    {
+     "month": "2026-05",
+     "relation": "entering",
+     "trips_per_day": 53851.3
+    },
+    {
+     "month": "2026-05",
+     "relation": "inside",
+     "trips_per_day": 92622.1
+    },
+    {
+     "month": "2026-05",
+     "relation": "leaving",
+     "trips_per_day": 76148.6
+    },
+    {
+     "month": "2026-05",
+     "relation": "outside",
+     "trips_per_day": 491058.9
+    },
+    {
+     "month": "2026-06",
+     "relation": "entering",
+     "trips_per_day": 49857.1
+    },
+    {
+     "month": "2026-06",
+     "relation": "inside",
+     "trips_per_day": 86627.7
+    },
+    {
+     "month": "2026-06",
+     "relation": "leaving",
+     "trips_per_day": 72399.4
+    },
+    {
+     "month": "2026-06",
+     "relation": "outside",
+     "trips_per_day": 483586.5
+    },
+    {
+     "month": "2026-07",
+     "relation": "entering",
+     "trips_per_day": 49210.1
+    },
+    {
+     "month": "2026-07",
+     "relation": "inside",
+     "trips_per_day": 92343.9
+    },
+    {
+     "month": "2026-07",
+     "relation": "leaving",
+     "trips_per_day": 69252.5
+    },
+    {
+     "month": "2026-07",
+     "relation": "outside",
+     "trips_per_day": 464012.1
+    },
+    {
+     "month": "2026-08",
+     "relation": "entering",
+     "trips_per_day": 47116.3
+    },
+    {
+     "month": "2026-08",
+     "relation": "inside",
+     "trips_per_day": 84379.5
+    },
+    {
+     "month": "2026-08",
+     "relation": "leaving",
+     "trips_per_day": 65615.6
+    },
+    {
+     "month": "2026-08",
+     "relation": "outside",
+     "trips_per_day": 463917.0
+    },
+    {
+     "month": "2026-09",
+     "relation": "entering",
+     "trips_per_day": 52467.9
+    },
+    {
+     "month": "2026-09",
+     "relation": "inside",
+     "trips_per_day": 96353.2
+    },
+    {
+     "month": "2026-09",
+     "relation": "leaving",
+     "trips_per_day": 74078.5
+    },
+    {
+     "month": "2026-09",
+     "relation": "outside",
+     "trips_per_day": 476640.1
+    }
+   ],
+   "event_study_naive": {
+    "treated": "treated",
+    "control": "control",
+    "pairs": {
+     "treated": 1424,
+     "control": 16355
+    },
+    "observations": 770800,
+    "reference_month": "2024-12",
+    "coefficients": [
+     {
+      "month": "2023-01",
+      "beta": -0.06092165220109,
+      "se": 0.0028548453075660086,
+      "pct": -5.910304590635088,
+      "ci_low_pct": -6.435312969309746,
+      "ci_high_pct": -5.382350295007935
+     },
+     {
+      "month": "2023-02",
+      "beta": -0.04765855006829512,
+      "se": 0.0027519406586215237,
+      "pct": -4.654070988766,
+      "ci_low_pct": -5.166963747680672,
+      "ci_high_pct": -4.138404312738233
+     },
+     {
+      "month": "2023-03",
+      "beta": -0.0724257727659673,
+      "se": 0.0024629923785511954,
+      "pct": -6.986521456963161,
+      "ci_low_pct": -7.434458704305887,
+      "ci_high_pct": -6.536416580341243
+     },
+     {
+      "month": "2023-04",
+      "beta": -0.05872259033708943,
+      "se": 0.002506488063818591,
+      "pct": -5.7031678598962285,
+      "ci_low_pct": -6.165285417233798,
+      "ci_high_pct": -5.238774464264174
+     },
+     {
+      "month": "2023-05",
+      "beta": -0.0797064015857179,
+      "se": 0.0022987217355960013,
+      "pct": -7.661258832764534,
+      "ci_low_pct": -8.076354724292619,
+      "ci_high_pct": -7.244288509487721
+     },
+     {
+      "month": "2023-06",
+      "beta": -0.07502266376771247,
+      "se": 0.002196400802482886,
+      "pct": -7.227753959605378,
+      "ci_low_pct": -7.626275008302084,
+      "ci_high_pct": -6.827513601372669
+     },
+     {
+      "month": "2023-07",
+      "beta": -0.060029871647835416,
+      "se": 0.002362061908252409,
+      "pct": -5.826359805407112,
+      "ci_low_pct": -6.261342299801896,
+      "ci_high_pct": -5.389358829256007
+     },
+     {
+      "month": "2023-08",
+      "beta": -0.08505044451510613,
+      "se": 0.0024908185480140787,
+      "pct": -8.153404833672221,
+      "ci_low_pct": -8.6007075558494,
+      "ci_high_pct": -7.703913038473615
+     },
+     {
+      "month": "2023-09",
+      "beta": -0.03225674703944257,
+      "se": 0.002191084663587161,
+      "pct": -3.174204719965048,
+      "ci_low_pct": -3.589134009508711,
+      "ci_high_pct": -2.7574896740799963
+     },
+     {
+      "month": "2023-10",
+      "beta": -0.022428978009241297,
+      "se": 0.00216574987256644,
+      "pct": -2.2179318501324166,
+      "ci_low_pct": -2.6321242749478366,
+      "ci_high_pct": -1.801977495486475
+     },
+     {
+      "month": "2023-11",
+      "beta": -0.020489638186037787,
+      "se": 0.0017776644542329067,
+      "pct": -2.028115191363767,
+      "ci_low_pct": -2.368877030418985,
+      "ci_high_pct": -1.6861639915040798
+     },
+     {
+      "month": "2023-12",
+      "beta": 0.01576599825019335,
+      "se": 0.0011335363067261459,
+      "pct": 1.5890937333498425,
+      "ci_low_pct": 1.363640619008904,
+      "ci_high_pct": 1.8150483007409635
+     },
+     {
+      "month": "2024-01",
+      "beta": -0.05828408580785779,
+      "se": 0.0027322711837852367,
+      "pct": -5.661809204594486,
+      "ci_low_pct": -6.165663606582537,
+      "ci_high_pct": -5.1552492976904265
+     },
+     {
+      "month": "2024-02",
+      "beta": -0.04431530644964606,
+      "se": 0.0026512018383704206,
+      "pct": -4.334772871745866,
+      "ci_low_pct": -4.830594063467426,
+      "ci_high_pct": -3.8363685110768806
+     },
+     {
+      "month": "2024-03",
+      "beta": -0.06184346116769097,
+      "se": 0.002438493353566962,
+      "pct": -5.996997352306871,
+      "ci_low_pct": -6.445207766599764,
+      "ci_high_pct": -5.546639612679971
+     },
+     {
+      "month": "2024-04",
+      "beta": -0.03825151147658526,
+      "se": 0.0023153495133347644,
+      "pct": -3.7529162014985795,
+      "ci_low_pct": -4.188704084089912,
+      "ci_high_pct": -3.3151461822833976
+     },
+     {
+      "month": "2024-05",
+      "beta": -0.06948283655953831,
+      "se": 0.0020389873432734838,
+      "pct": -6.712385538868211,
+      "ci_low_pct": -7.084457606163809,
+      "ci_high_pct": -6.338823541904281
+     },
+     {
+      "month": "2024-06",
+      "beta": -0.07844023022181307,
+      "se": 0.0020535344964582726,
+      "pct": -7.544268113400071,
+      "ci_low_pct": -7.915647852009703,
+      "ci_high_pct": -7.171390586001872
+     },
+     {
+      "month": "2024-07",
+      "beta": -0.05714952669693398,
+      "se": 0.0021673086170055545,
+      "pct": -5.554716210541157,
+      "ci_low_pct": -5.95506176130065,
+      "ci_high_pct": -5.152666404741311
+     },
+     {
+      "month": "2024-08",
+      "beta": -0.07972873949468896,
+      "se": 0.0022918681356439586,
+      "pct": -7.663321464121708,
+      "ci_low_pct": -8.077173287202408,
+      "ci_high_pct": -7.247606411442965
+     },
+     {
+      "month": "2024-09",
+      "beta": -0.04460760379632963,
+      "se": 0.0022684871836421744,
+      "pct": -4.362731477493136,
+      "ci_low_pct": -4.787013309311296,
+      "ci_high_pct": -3.9365589889582027
+     },
+     {
+      "month": "2024-10",
+      "beta": -0.0222736518811754,
+      "se": 0.0018492757122390146,
+      "pct": -2.2027425604761848,
+      "ci_low_pct": -2.5565749482297484,
+      "ci_high_pct": -1.847625351724623
+     },
+     {
+      "month": "2024-11",
+      "beta": -0.03336231837355024,
+      "se": 0.0016337984541610264,
+      "pct": -3.281193390927407,
+      "ci_low_pct": -3.5904153364611737,
+      "ci_high_pct": -2.9709796538416544
+     },
+     {
+      "month": "2025-01",
+      "beta": -0.0887560080954437,
+      "se": 0.002683128598286488,
+      "pct": -8.493118427814581,
+      "ci_low_pct": -8.973083741690965,
+      "ci_high_pct": -8.010622360266716
+     },
+     {
+      "month": "2025-02",
+      "beta": -0.07768596916382617,
+      "se": 0.002718868500981168,
+      "pct": -7.474506049153498,
+      "ci_low_pct": -7.96626132388467,
+      "ci_high_pct": -6.980123224420505
+     },
+     {
+      "month": "2025-03",
+      "beta": -0.09747522372015927,
+      "se": 0.002574013305229038,
+      "pct": -9.287518354431864,
+      "ci_low_pct": -9.744016318999694,
+      "ci_high_pct": -8.828711508135028
+     },
+     {
+      "month": "2025-04",
+      "beta": -0.07500399637276756,
+      "se": 0.0023427621657252677,
+      "pct": -7.226022127284266,
+      "ci_low_pct": -7.651046400354529,
+      "ci_high_pct": -6.79904173424017
+     },
+     {
+      "month": "2025-05",
+      "beta": -0.08069543960424924,
+      "se": 0.0021345066770209592,
+      "pct": -7.752540210544826,
+      "ci_low_pct": -8.137663566373629,
+      "ci_high_pct": -7.365802264831169
+     },
+     {
+      "month": "2025-06",
+      "beta": -0.10203910367625954,
+      "se": 0.002227106556877205,
+      "pct": -9.700575941596332,
+      "ci_low_pct": -10.093885514821492,
+      "ci_high_pct": -9.305545768818224
+     },
+     {
+      "month": "2025-07",
+      "beta": -0.07964811074364263,
+      "se": 0.0022768627829166956,
+      "pct": -7.6558761729073606,
+      "ci_low_pct": -8.067057612442035,
+      "ci_high_pct": -7.242855673599043
+     },
+     {
+      "month": "2025-08",
+      "beta": -0.10616659567772198,
+      "se": 0.0026012200217111862,
+      "pct": -10.072517970220535,
+      "ci_low_pct": -10.52983667162235,
+      "ci_high_pct": -9.612861725364326
+     },
+     {
+      "month": "2025-09",
+      "beta": -0.04052011257502438,
+      "se": 0.0023578216168285066,
+      "pct": -3.9710149584476087,
+      "ci_low_pct": -4.413772770275222,
+      "ci_high_pct": -3.5262062812849373
+     },
+     {
+      "month": "2025-10",
+      "beta": -0.03746437483166445,
+      "se": 0.0022306830063210797,
+      "pct": -3.677126770467945,
+      "ci_low_pct": -4.0973444371246766,
+      "ci_high_pct": -3.2550678316761084
+     },
+     {
+      "month": "2025-11",
+      "beta": -0.018529993420989523,
+      "se": 0.0019268703873929086,
+      "pct": -1.8359368610475177,
+      "ci_low_pct": -2.2059705500892908,
+      "ci_high_pct": -1.4645030361099645
+     },
+     {
+      "month": "2025-12",
+      "beta": 0.00597687973924194,
+      "se": 0.0011984175627364506,
+      "pct": 0.59947769236236,
+      "ci_low_pct": 0.3634570406449802,
+      "ci_high_pct": 0.836053384227615
+     },
+     {
+      "month": "2026-01",
+      "beta": -0.06625949591678518,
+      "se": 0.002889534464233176,
+      "pct": -6.411202632931625,
+      "ci_low_pct": -6.939743516523935,
+      "ci_high_pct": -5.879659872102085
+     },
+     {
+      "month": "2026-02",
+      "beta": -0.037712711688211976,
+      "se": 0.002692726927013676,
+      "pct": -3.7010443200919294,
+      "ci_low_pct": -4.207946802862046,
+      "ci_high_pct": -3.191459463174244
+     },
+     {
+      "month": "2026-03",
+      "beta": -0.07358215440153476,
+      "se": 0.0026783875535281608,
+      "pct": -7.094018369703785,
+      "ci_low_pct": -7.580463342855985,
+      "ci_high_pct": -6.605013021110808
+     },
+     {
+      "month": "2026-04",
+      "beta": -0.030416540424573226,
+      "se": 0.0023008782954926244,
+      "pct": -2.995861206872434,
+      "ci_low_pct": -3.432337919277463,
+      "ci_high_pct": -2.557411660949777
+     },
+     {
+      "month": "2026-05",
+      "beta": -0.04192136059516811,
+      "se": 0.0021699250227859342,
+      "pct": -4.105481151368206,
+      "ci_low_pct": -4.512459562870005,
+      "ci_high_pct": -3.696768153064087
+     },
+     {
+      "month": "2026-06",
+      "beta": -0.05606459611722248,
+      "se": 0.002029061367799836,
+      "pct": -5.452194029380074,
+      "ci_low_pct": -5.827460194446351,
+      "ci_high_pct": -5.075432474097771
+     },
+     {
+      "month": "2026-07",
+      "beta": -0.03371706793319774,
+      "se": 0.0022061326043197826,
+      "pct": -3.3154982598032783,
+      "ci_low_pct": -3.732661408921346,
+      "ci_high_pct": -2.896527383417281
+     },
+     {
+      "month": "2026-08",
+      "beta": -0.059765556627294096,
+      "se": 0.002599386356289158,
+      "pct": -5.801465007875101,
+      "ci_low_pct": -6.28016696551057,
+      "ci_high_pct": -5.320317937430268
+     },
+     {
+      "month": "2026-09",
+      "beta": -0.01533121245308846,
+      "se": 0.002404727449000927,
+      "pct": -1.5214287710763255,
+      "ci_low_pct": -1.9844923248397504,
+      "ci_high_pct": -1.0561775241619895
+     }
+    ],
+    "pretrend_wald_chi2": 8495.312935975962,
+    "pretrend_df": 23,
+    "pretrend_p": 0.0,
+    "avg_post_effect_pct": -5.611540255245284,
+    "avg_post_ci_pct": [
+     -6.012416127857274,
+     -5.208954566733984
+    ]
+   },
+   "did_seasonal": {
+    "post_start": "2025-01",
+    "end": null,
+    "treated": "treated",
+    "control": "control",
+    "pairs": 17779,
+    "observations": 770800,
+    "att_pct": -0.3192290416513432,
+    "ci_pct": [
+     -0.44997417549258484,
+     -0.1883121922341227
+    ],
+    "z": -4.774781100674491
+   },
+   "did_seasonal_adjacent_control": {
+    "post_start": "2025-01",
+    "end": null,
+    "treated": "treated",
+    "control": "adjacent",
+    "pairs": 3972,
+    "observations": 177292,
+    "att_pct": 0.42736250038231105,
+    "ci_pct": [
+     0.25635909278236196,
+     0.5986575819037491
+    ],
+    "z": 4.904597880400049
+   },
+   "placebo_2024": {
+    "post_start": "2024-01",
+    "end": "2025-01",
+    "treated": "treated",
+    "control": "control",
+    "pairs": 17834,
+    "observations": 410843,
+    "att_pct": 0.10247244916451878,
+    "ci_pct": [
+     0.0005237533225565214,
+     0.20452507982795773
+    ],
+    "z": 1.970074502496442
+   },
+   "did_trend": {
+    "att_pct": -3.271538106456484,
+    "ci_pct": [
+     -3.4250502965561473,
+     -3.1177818987044015
+    ],
+    "trend_pct_per_year": 1.5879782244836351,
+    "pairs": 17779,
+    "observations": 770800
+   },
+   "verdict": {
+    "placebo_passes": true,
+    "naive_pretrend_passes": false,
+    "credible_causal_estimate": true,
+    "summary": "Seasonal DiD: -0.3% pace (CI -0.4..-0.2); 2024 placebo +0.1% (CI +0.0..+0.2) \u2014 placebo within \u00b10.5% (negligible)."
+   }
+  }
+ }
+}

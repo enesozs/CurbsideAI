@@ -1,0 +1,208 @@
+{
+  "trip_source": "hvfhv",
+  "month": "2024-11",
+  "file": "fhvhv_tripdata_2024-11.parquet",
+  "file_bytes": 480228052,
+  "rows": 19987533,
+  "schema": [
+    {
+      "column": "hvfhs_license_num",
+      "type": "VARCHAR"
+    },
+    {
+      "column": "dispatching_base_num",
+      "type": "VARCHAR"
+    },
+    {
+      "column": "originating_base_num",
+      "type": "VARCHAR"
+    },
+    {
+      "column": "request_datetime",
+      "type": "TIMESTAMP"
+    },
+    {
+      "column": "on_scene_datetime",
+      "type": "TIMESTAMP"
+    },
+    {
+      "column": "pickup_datetime",
+      "type": "TIMESTAMP"
+    },
+    {
+      "column": "dropoff_datetime",
+      "type": "TIMESTAMP"
+    },
+    {
+      "column": "PULocationID",
+      "type": "INTEGER"
+    },
+    {
+      "column": "DOLocationID",
+      "type": "INTEGER"
+    },
+    {
+      "column": "trip_miles",
+      "type": "DOUBLE"
+    },
+    {
+      "column": "trip_time",
+      "type": "BIGINT"
+    },
+    {
+      "column": "base_passenger_fare",
+      "type": "DOUBLE"
+    },
+    {
+      "column": "tolls",
+      "type": "DOUBLE"
+    },
+    {
+      "column": "bcf",
+      "type": "DOUBLE"
+    },
+    {
+      "column": "sales_tax",
+      "type": "DOUBLE"
+    },
+    {
+      "column": "congestion_surcharge",
+      "type": "DOUBLE"
+    },
+    {
+      "column": "airport_fee",
+      "type": "DOUBLE"
+    },
+    {
+      "column": "tips",
+      "type": "DOUBLE"
+    },
+    {
+      "column": "driver_pay",
+      "type": "DOUBLE"
+    },
+    {
+      "column": "shared_request_flag",
+      "type": "VARCHAR"
+    },
+    {
+      "column": "shared_match_flag",
+      "type": "VARCHAR"
+    },
+    {
+      "column": "access_a_ride_flag",
+      "type": "VARCHAR"
+    },
+    {
+      "column": "wav_request_flag",
+      "type": "VARCHAR"
+    },
+    {
+      "column": "wav_match_flag",
+      "type": "VARCHAR"
+    }
+  ],
+  "pickup_column": "pickup_datetime",
+  "pickup_min": "2024-11-01 00:00:00",
+  "pickup_max": "2024-11-30 23:59:59",
+  "rows_pickup_before_month": 0,
+  "rows_pickup_after_month": 0,
+  "null_share": {
+    "originating_base_num": 0.242475,
+    "on_scene_datetime": 0.242474
+  },
+  "zones": {
+    "PULocationID": {
+      "distinct": 262,
+      "not_in_lookup": {},
+      "count_264": 0,
+      "count_265": 800,
+      "official_ids_never_seen": [
+        103,
+        104,
+        264
+      ]
+    },
+    "DOLocationID": {
+      "distinct": 262,
+      "not_in_lookup": {},
+      "count_264": 0,
+      "count_265": 849828,
+      "official_ids_never_seen": [
+        103,
+        104,
+        264
+      ]
+    }
+  },
+  "validity": {
+    "dropoff_before_pickup": 9653,
+    "duration_over_24h": 0,
+    "trip_miles_non_positive": 2869
+  },
+  "pickups_by_wall_clock_hour": [
+    750964,
+    558475,
+    381971,
+    307358,
+    316702,
+    366147,
+    555503,
+    822182,
+    961442,
+    899757,
+    851663,
+    835213,
+    851612,
+    881586,
+    947649,
+    978865,
+    1027374,
+    1140850,
+    1187449,
+    1166162,
+    1103083,
+    1067082,
+    1062898,
+    965546
+  ],
+  "dst_evidence": [
+    {
+      "date": "2024-11-03",
+      "kind": "fall_back",
+      "local_hour": 1,
+      "pickups_on_transition_day": 64183,
+      "same_weekday_same_hour": {
+        "2024-11-10": 33512,
+        "2024-11-17": 36015,
+        "2024-11-24": 34832
+      },
+      "ratio_vs_median_reference": 1.843
+    }
+  ],
+  "hvfhv": {
+    "licensees": [
+      {
+        "licensee": "HV0003",
+        "rows": 15126916,
+        "on_scene_null_share": 0.0,
+        "request_null_share": 0.0
+      },
+      {
+        "licensee": "HV0005",
+        "rows": 4860617,
+        "on_scene_null_share": 0.997088,
+        "request_null_share": 0.0
+      }
+    ],
+    "wait_seconds_pickup_minus_request": {
+      "n": 19987533,
+      "p10": 112.0,
+      "p50": 239.0,
+      "p90": 495.0,
+      "p99": 942.0,
+      "negative": 203153,
+      "over_1h": 415
+    }
+  }
+}
